@@ -1,9 +1,7 @@
 #server.R
 library(shiny)
-library(rjson)
 
 
-jsondata = fromJSON(file="webmd/webmd-topics.json")
 shinyServer(function(input, output)
 {
   # Construct the formula for the title of the plot
