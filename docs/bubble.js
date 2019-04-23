@@ -77,6 +77,10 @@ var diameter = 800;
         });
     };    
         d3.selectAll(".node")
+        .on("click",function(d,i){
+            var current_topic = d.data.Name.substring(0, d.r / 3);
+            d3.select(".current").text(current_topic);
+        })
         .on("mouseover",function(d,i){
                 d3.select(this).select("circle").attr("r",80);
                 d3.select(this).select("text").attr("font-size", function(d){
