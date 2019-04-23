@@ -1,1704 +1,1704 @@
-﻿Number of Records,Topic Id,Topic Name
-1,abdominal-hernia-questions,Abdominal Hernia
-1,abdominal-muscles-questions,Abdominal Muscles
-1,abdominal-obesity-questions,Abdominal Obesity
-1,abdominal-pain-questions,Abdominal Pain
-1,abdominal-surgery-questions,Abdominal Surgery
-1,ablation-questions,Ablation
-1,abortion-questions,Abortion
-1,abscess-questions,Abscess
-1,abstinence-questions,Abstinence
-1,aca,ACA
-1,ace-inhibitor-questions,Ace Inhibitor
-1,acetaminophen-questions,Acetaminophen
-1,acetone-questions,Acetone
-1,achilles-tendon-questions,Achilles Tendon
-1,acne-questions,Acne
-1,actinic-keratosis-questions,Actinic Keratosis
-1,acupuncture-questions,Acupuncture
-1,acute-bronchitis-questions,Acute Bronchitis
-1,acute-pancreatitis-questions,Acute Pancreatitis
-1,acute-respiratory-distress-syndrome-questions,Acute Respiratory Distress Syndrome
-1,acute-sinusitis-questions,Acute Sinusitis
-1,addiction-questions,Addiction
-1,adenoidectomy-questions,Adenoidectomy
-1,adenoma-questions,Adenoma
-1,adenomyosis-questions,Adenomyosis
-1,adolescent-questions,Adolescent
-1,adrenal-gland-questions,Adrenal Gland
-1,adrenal-tumor-questions,Adrenal Tumor
-1,adult-acne-questions,Adult Acne
-1,affordable-care-act,Affordable Care Act
-1,aggression-questions,Aggression
-1,aggressive-behavior-questions,Aggressive Behavior
-1,aging-questions,Aging
-1,aids-questions,AIDS
-1,air-quality-questions,Air Quality
-1,alabama-questions,Alabama
-1,albinism-questions,Albinism
-1,alcohol-abuse-questions,Alcohol Abuse
-1,alcohol-withdrawal-questions,Alcohol Withdrawal
-1,alcoholic-beverage-questions,Alcoholic Beverage
-1,alcoholism-questions,Alcoholism
-1,allergic-asthma-questions,Allergic Asthma
-1,allergic-conjunctivitis-questions,Allergic Conjunctivitis
-1,allergic-reaction-questions,Allergic Reaction
-1,allergy-questions,Allergy
-1,almond-questions,Almond
-1,aloe-questions,Aloe
-1,aloe-vera-questions,Aloe Vera
-1,alopecia-questions,Alopecia
-1,alternative-medicine-questions,Alternative Medicine
-1,alzheimers-disease-questions,Alzheimer's Disease
-1,amino-acids-questions,Amino Acids
-1,ammonia-questions,Ammonia
-1,amnesia-questions,Amnesia
-1,amoxicillin-questions,Amoxicillin
-1,amputation-questions,Amputation
-1,amyloidosis-questions,Amyloidosis
-1,amyotrophic-lateral-sclerosis-questions,Amyotrophic Lateral Sclerosis
-1,ana-test-questions,ANA Test
-1,anal-abscess-questions,Anal Abscess
-1,anal-cancer-questions,Anal Cancer
-1,anal-fissure-questions,Anal Fissure
-1,anal-wart-questions,Anal Wart
-1,anaphylactic-shock-questions,Anaphylactic Shock
-1,anaphylaxis-questions,Anaphylaxis
-1,anastomosis-questions,Anastomosis
-1,anatomy-questions,Anatomy
-1,anemia-questions,Anemia
-1,anesthesia-questions,Anesthesia
-1,aneurysm-questions,Aneurysm
-1,anger-management-questions,Anger Management
-1,anger-questions,Anger
-1,angina-questions,Angina
-1,angiogram-questions,Angiogram
-1,angioplasty-questions,Angioplasty
-1,ankle-pain-questions,Ankle Pain
-1,ankle-questions,Ankle
-1,anorexia-questions,Anorexia
-1,anterior-cruciate-ligament-injury-questions,Anterior Cruciate Ligament Injury
-1,anti-aging-questions,Anti-Aging
-1,anti-inflammatory-questions,Anti-Inflammatory
-1,antibiotic-questions,Antibiotic
-1,antibiotic-use-questions,Antibiotic Use
-1,antidepressant-questions,Antidepressant
-1,anus-questions,Anus
-1,anxiety-questions,Anxiety
-1,aorta-questions,Aorta
-1,aortic-aneurysm-questions,Aortic Aneurysm
-1,aortic-dissection-questions,Aortic Dissection
-1,aortic-stenosis-questions,Aortic Stenosis
-1,apathy-questions,Apathy
-1,apnea-questions,Apnea
-1,appendectomy-questions,Appendectomy
-1,appendicitis-questions,Appendicitis
-1,appendix-questions,Appendix
-1,arm-questions,Arm
-1,armpit-questions,Armpit
-1,arrhythmia-questions,Arrhythmia
-1,arrhythmias-questions,Arrhythmias
-1,artery-questions,Artery
-1,arthritis-questions,Arthritis
-1,arthropathy-questions,Arthropathy
-1,arthroscopy-questions,Arthroscopy
-1,artificial-insemination-questions,Artificial Insemination
-1,asbestosis-questions,Asbestosis
-1,aspiration-questions,Aspiration
-1,aspirin-questions,Aspirin
-1,asthma-attack-questions,Asthma Attack
-1,asthma-questions,Asthma
-1,astigmatism-questions,Astigmatism
-1,ataxia-questions,Ataxia
-1,atherosclerosis-questions,Atherosclerosis
-1,athletes-foot-questions,Athlete's Foot
-1,atopic-dermatitis-questions,Atopic Dermatitis
-1,atrial-fibrillation-questions,Atrial Fibrillation
-1,atrial-flutter-questions,Atrial Flutter
-1,atrophic-vaginitis-questions,Atrophic Vaginitis
-1,atrophy-questions,Atrophy
-1,attention-deficit-hyperactivity-disorder-questions,Attention Deficit Hyperactivity Disorder
-1,auscultation-questions,Auscultation
-1,autism-questions,Autism
-1,autoimmune-disease-questions,Autoimmune Disease
-1,autoimmune-disorder-questions,Autoimmune Disorder
-1,autoimmune-hepatitis-questions,Autoimmune Hepatitis
-1,b-complex-vitamins-questions,B Complex Vitamins
-1,b12-questions,B12
-1,baby-bottle-tooth-decay-questions,Baby Bottle Tooth Decay
-1,baby-questions,Baby
-1,bacitracin-questions,Bacitracin
-1,back-pain-questions,Back Pain
-1,bacterial-meningitis-questions,Bacterial Meningitis
-1,bacterial-pneumonia-questions,Bacterial Pneumonia
-1,bacterial-sexually-transmitted-disease-questions,Bacterial Sexually Transmitted Disease
-1,bacterial-vaginosis-questions,Bacterial Vaginosis
-1,bacterium-questions,Bacterium
-1,bad-breath-questions,Bad Breath
-1,balanitis-questions,Balanitis
-1,baldness-questions,Baldness
-1,barium-swallow-questions,Barium Swallow
-1,bartholin-cyst-questions,Bartholin Cyst
-1,basal-body-temperature-questions,Basal Body Temperature
-1,basal-cell-carcinoma-questions,Basal Cell Carcinoma
-1,bed-sore-questions,Bed Sore
-1,bedbug-questions,Bedbug
-1,bee-pollen-questions,Bee Pollen
-1,bee-sting-questions,Bee Sting
-1,belch-questions,Belch
-1,bells-palsy-questions,Bell's Palsy
-1,belly-button-questions,Belly Button
-1,benign-paroxysmal-positional-vertigo-questions,Benign Paroxysmal Positional Vertigo
-1,benign-prostatic-hyperplasia-questions,Benign Prostatic Hyperplasia
-1,benign-questions,Benign
-1,benzoyl-peroxide-questions,Benzoyl Peroxide
-1,beta-blocker-questions,Beta Blocker
-1,beta-carotene-questions,Beta Carotene
-1,beta-thalassemia-questions,Beta Thalassemia
-1,beverages-questions,Beverages
-1,bi-pap-questions,Bi-Pap
-1,bicep-questions,Bicep
-1,big-toe-questions,Big Toe
-1,binge-drinking-questions,Binge Drinking
-1,biofeedback-questions,Biofeedback
-1,bioidentical-hormone-questions,Bioidentical Hormone
-1,biopsy-questions,Biopsy
-1,bipolar-disorder-questions,Bipolar Disorder
-1,birth-control-pill-questions,Birth Control Pill
-1,birth-control-questions,Birth Control
-1,birth-defect-questions,Birth Defect
-1,birth-questions,Birth
-1,birthmark-questions,Birthmark
-1,black-eye-questions,Black Eye
-1,bladder-cancer-questions,Bladder Cancer
-1,bladder-questions,Bladder
-1,bladder-repair-questions,Bladder Repair
-1,bladder-spasm-questions,Bladder Spasm
-1,bladder-stone-questions,Bladder Stone
-1,blepharitis-questions,Blepharitis
-1,blind-loop-syndrome-questions,Blind Loop Syndrome
-1,blindness-questions,Blindness
-1,blinking-questions,Blinking
-1,blister-questions,Blister
-1,bloating-questions,Bloating
-1,blood-clot-questions,Blood Clot
-1,blood-disorder-questions,Blood Disorder
-1,blood-donation-questions,Blood Donation
-1,blood-in-urine-questions,Blood In Urine
-1,blood-loss-questions,Blood Loss
-1,blood-pressure-questions,Blood Pressure
-1,blood-sugar-questions,Blood Sugar
-1,blood-test-questions,Blood Test
-1,blood-thinner-questions,Blood Thinner
-1,bloodshot-eye-questions,Bloodshot Eye
-1,bmp-blood-test-questions,Bmp Blood Test
-1,body-building-questions,Body Building
-1,body-mass-index-questions,Body Mass Index
-1,boil-questions,Boil
-1,bone-cancer-questions,Bone Cancer
-1,bone-density-test-questions,Bone Density Test
-1,bone-marrow-questions,Bone Marrow
-1,bone-spurs-questions,Bone Spurs
-1,borderline-personality-disorder-questions,Borderline Personality Disorder
-1,bow-leg-questions,Bow Leg
-1,bowel-incontinence-questions,Bowel Incontinence
-1,bowel-movement-questions,Bowel Movement
-1,bradycardia-questions,Bradycardia
-1,brain-aneurysm-questions,Brain Aneurysm
-1,brain-cancer-questions,Brain Cancer
-1,brain-hemorrhage-questions,Brain Hemorrhage
-1,brain-questions,Brain
-1,brain-tumor-questions,Brain Tumor
-1,breast-augmentation-questions,Breast Augmentation
-1,breast-biopsy-questions,Breast Biopsy
-1,breast-cancer-questions,Breast Cancer
-1,breast-enlargement-questions,Breast Enlargement
-1,breast-fibroadenoma-questions,Breast Fibroadenoma
-1,breast-pump-questions,Breast Pump
-1,breast-questions,Breast
-1,breast-self-exam-questions,Breast Self Exam
-1,breastfeed-questions,Breastfeed
-1,broken-arm-questions,Broken Arm
-1,broken-bone-questions,Broken Bone
-1,broken-finger-questions,Broken Finger
-1,broken-foot-questions,Broken Foot
-1,broken-leg-questions,Broken Leg
-1,broken-shoulder-questions,Broken Shoulder
-1,broken-toe-questions,Broken Toe
-1,broken-tooth-questions,Broken Tooth
-1,bronchiolitis-questions,Bronchiolitis
-1,bronchitis-questions,Bronchitis
-1,brown-rice-questions,Brown Rice
-1,bruise-questions,Bruise
-1,bruxism-questions,Bruxism
-1,bulging-disc-questions,Bulging Disc
-1,bulimia-nervosa-questions,Bulimia Nervosa
-1,bundle-nerve-branch-block-questions,Bundle Nerve Branch Block
-1,bunion-questions,Bunion
-1,burn-questions,Burn
-1,bursitis-questions,Bursitis
-1,buttocks-questions,Buttocks
-1,caffeine-questions,Caffeine
-1,calamine-questions,Calamine
-1,calcium-channel-blocker-questions,Calcium Channel Blocker
-1,calcium-questions,Calcium
-1,calf-questions,Calf
-1,california-questions,California
-1,callus-questions,Callus
-1,calorie-questions,Calorie
-1,cancer-questions,Cancer
-1,candidiasis-questions,Candidiasis
-1,canker-sore-questions,Canker Sore
-1,canola-questions,Canola
-1,car-sickness-questions,Car Sickness
-1,carbohydrate-questions,Carbohydrate
-1,carbon-dioxide-questions,Carbon Dioxide
-1,carcinoma-questions,Carcinoma
-1,cardiac-arrest-questions,Cardiac Arrest
-1,cardiac-catheterization-questions,Cardiac Catheterization
-1,cardiomyopathy-questions,Cardiomyopathy
-1,cardiovascular-disease-questions,Cardiovascular Disease
-1,cardiovascular-sys-questions,Cardiovascular Sys.
-1,cardioversion-questions,Cardioversion
-1,care-giver-questions,Care Giver
-1,carotid-artery-questions,Carotid Artery
-1,carpal-questions,Carpal
-1,carpal-tunnel-syndrome-questions,Carpal Tunnel Syndrome
-1,carrot-questions,Carrot
-1,cartilage-questions,Cartilage
-1,castor-oil-questions,Castor Oil
-1,castration-questions,Castration
-1,cat-scan-questions,CAT Scan
-1,cat-scratch-disease-questions,Cat Scratch Disease
-1,cataract-questions,Cataract
-1,cataract-surgery-questions,Cataract Surgery
-1,caterpillar-questions,Caterpillar
-1,catheter-questions,Catheter
-1,catheterization-questions,Catheterization
-1,cats-questions,Cats
-1,cauliflower-ear-questions,Cauliflower Ear
-1,cavity-questions,Cavity
-1,celiac-disease-questions,Celiac Disease
-1,cellulite-questions,Cellulite
-1,cellulitis-questions,Cellulitis
-1,cellulose-questions,Cellulose
-1,central-nervous-system-questions,Central Nervous System
-1,cephalexin-questions,Cephalexin
-1,cereal-questions,Cereal
-1,cerebral-palsy-questions,Cerebral Palsy
-1,cervical-biopsy-questions,Cervical Biopsy
-1,cervical-cancer-questions,Cervical Cancer
-1,cervical-conization-questions,Cervical Conization
-1,cervical-disk-questions,Cervical Disk
-1,cervical-mucus-questions,Cervical Mucus
-1,cervical-spinal-stenosis-questions,Cervical Spinal Stenosis
-1,cervical-spine-questions,Cervical Spine
-1,cervix-questions,Cervix
-1,cesarean-section-questions,Cesarean Section
-1,chai-questions,Chai
-1,chalazion-questions,Chalazion
-1,chancroid-questions,Chancroid
-1,charcot-marie-tooth-disease-questions,Charcot-Marie-Tooth Disease
-1,cheekbones-questions,Cheekbones
-1,chemical-pneumonia-questions,Chemical Pneumonia
-1,chemotherapy-questions,Chemotherapy
-1,cherry-angioma-questions,Cherry Angioma
-1,chest-questions,Chest
-1,chiari-malformation-questions,Chiari Malformation
-1,chickenpox-questions,Chickenpox
-1,chigger-questions,Chigger
-1,child-abuse-questions,Child Abuse
-1,childhood-obesity-questions,Childhood Obesity
-1,chlamydia-questions,Chlamydia
-1,chloride-questions,Chloride
-1,choking-questions,Choking
-1,cholecystectomy-questions,Cholecystectomy
-1,cholera-questions,Cholera
-1,cholesteatoma-questions,Cholesteatoma
-1,cholesterol-questions,Cholesterol
-1,chondromalacia-patella-questions,Chondromalacia Patella
-1,chronic-fatigue-syndrome-questions,Chronic Fatigue Syndrome
-1,chronic-obstructive-pulmonary-disease-questions,Chronic Obstructive Pulmonary Disease
-1,chronic-pain-questions,Chronic Pain
-1,circulation-questions,Circulation
-1,circumcision-questions,Circumcision
-1,cirrhosis-questions,Cirrhosis
-1,ck-questions,CK
-1,clavicle-questions,Clavicle
-1,clitoris-questions,Clitoris
-1,closed-head-injury-questions,Closed Head Injury
-1,cluster-headache-questions,Cluster Headache
-1,cocaine-questions,Cocaine
-1,coccydynia-questions,Coccydynia
-1,cocoa-questions,Cocoa
-1,coconut-oil-questions,Coconut Oil
-1,coffee-questions,Coffee
-1,cold-cream-questions,Cold Cream
-1,cold-questions,Cold
-1,cold-sore-questions,Cold Sore
-1,coldness-questions,Coldness
-1,colectomy-questions,Colectomy
-1,colic-questions,Colic
-1,colitis-questions,Colitis
-1,collagen-questions,Collagen
-1,collapsed-lung-questions,Collapsed Lung
-1,collarbone-questions,Collarbone
-1,colloid-cyst-questions,Colloid Cyst
-1,colon-cancer-questions,Colon Cancer
-1,colon-questions,Colon
-1,colon-resection-questions,Colon Resection
-1,colonoscopy-questions,Colonoscopy
-1,colorado-questions,Colorado
-1,colostomy-questions,Colostomy
-1,colposcopy-questions,Colposcopy
-1,coma-questions,Coma
-1,complete-blood-count-questions,Complete Blood Count
-1,complex-regional-pain-syndrome-questions,Complex Regional Pain Syndrome
-1,compulsive-eater-questions,Compulsive Eater
-1,concentration-questions,Concentration
-1,conception-questions,Conception
-1,concussion-questions,Concussion
-1,condom-questions,Condom
-1,confusion-questions,Confusion
-1,congestive-heart-failure-questions,Congestive Heart Failure
-1,connecticut-questions,Connecticut
-1,connective-tissue-disease-questions,Connective Tissue Disease
-1,consciousness-questions,Consciousness
-1,constipation-questions,Constipation
-1,constriction-questions,Constriction
-1,consumption-questions,Consumption
-1,contact-dermatitis-questions,Contact Dermatitis
-1,contusion-questions,Contusion
-1,conversion-disorder-questions,Conversion Disorder
-1,cooking-questions,Cooking
-1,corn-oil-questions,Corn Oil
-1,cornea-questions,Cornea
-1,corneal-abrasion-questions,Corneal Abrasion
-1,coronary-angioplasty-questions,Coronary Angioplasty
-1,coronary-artery-bypass-questions,Coronary Artery Bypass
-1,coronary-disease-questions,Coronary Disease
-1,corpectomy-questions,Corpectomy
-1,corpulence-questions,Corpulence
-1,cortisol-questions,Cortisol
-1,cortisone-questions,Cortisone
-1,cosmetic-procedures-questions,Cosmetic Procedures
-1,cosmetic-surgery-questions,Cosmetic Surgery
-1,cough-questions,Cough
-1,coughing-up-blood-questions,Coughing Up Blood
-1,cpap-questions,CPAP
-1,cradle-cap-questions,Cradle Cap
-1,cramps-questions,Cramps
-1,cranberry-questions,Cranberry
-1,craniotomy-questions,Craniotomy
-1,craving-questions,Craving
-1,creatinine-questions,Creatinine
-1,crohns-disease-questions,Crohn's Disease
-1,croup-questions,Croup
-1,crying-questions,Crying
-1,cubital-tunnel-syndrome-questions,Cubital Tunnel Syndrome
-1,cuts-questions,Cuts
-1,cyst-questions,Cyst
-1,cystic-acne-questions,Cystic Acne
-1,cystic-fibrosis-questions,Cystic Fibrosis
-1,cystoscopy-questions,Cystoscopy
-1,dairy-product-questions,Dairy Product
-1,dairy-questions,Dairy
-1,dark-chocolate-questions,Dark Chocolate
-1,decompression-sickness-questions,Decompression Sickness
-1,deep-vein-thrombosis-questions,Deep Vein Thrombosis
-1,deformity-questions,Deformity
-1,degenerative-disc-disease-questions,Degenerative Disc Disease
-1,dehydration-questions,Dehydration
-1,delayed-ejaculation-questions,Delayed Ejaculation
-1,delirium-questions,Delirium
-1,delusions-questions,Delusions
-1,dementia-questions,Dementia
-1,dental-abscess-questions,Dental Abscess
-1,dental-injury-questions,Dental Injury
-1,dental-questions,Dental
-1,depo-provera-questions,Depo-Provera
-1,depression-questions,Depression
-1,dermabrasion-questions,Dermabrasion
-1,dermatitis-questions,Dermatitis
-1,dessert-questions,Dessert
-1,detached-retina-questions,Detached Retina
-1,developmental-delay-questions,Developmental Delay
-1,deviated-septum-questions,Deviated Septum
-1,diabetes-questions,Diabetes
-1,diabetic-coma-questions,Diabetic Coma
-1,diabetic-neuropathy-questions,Diabetic Neuropathy
-1,dialysis-questions,Dialysis
-1,diaper-rash-questions,Diaper Rash
-1,diaphragm-questions,Diaphragm
-1,diarrhea-questions,Diarrhea
-1,diet-pills-questions,Diet Pills
-1,diet-questions,Diet
-1,digestive-system-questions,Digestive System
-1,dilated-cardiomyopathy-questions,Dilated Cardiomyopathy
-1,disc-herniation-questions,Disc Herniation
-1,dislocation-questions,Dislocation
-1,disorientation-questions,Disorientation
-1,diverticulitis-questions,Diverticulitis
-1,diverticulosis-questions,Diverticulosis
-1,dizziness-questions,Dizziness
-1,dna-test-questions,DNA Test
-1,dog-questions,Dog
-1,domestic-violence-questions,Domestic Violence
-1,dopamine-questions,Dopamine
-1,double-vision-questions,Double Vision
-1,dourine-questions,Dourine
-1,down-syndrome-questions,Down Syndrome
-1,drainage-questions,Drainage
-1,drinking-questions,Drinking
-1,drool-questions,Drool
-1,drowning-questions,Drowning
-1,drowsiness-questions,Drowsiness
-1,drug-abuse-questions,Drug Abuse
-1,drug-eruption-questions,Drug Eruption
-1,drug-overdose-questions,Drug Overdose
-1,drug-questions,Drug
-1,drug-test-questions,Drug Test
-1,dry-macular-degeneration-questions,Dry Macular Degeneration
-1,dry-mouth-questions,Dry Mouth
-1,dry-skin-questions,Dry Skin
-1,dry-socket-questions,Dry Socket
-1,duodenitis-questions,Duodenitis
-1,dysentery-questions,Dysentery
-1,dyshidrotic-eczema-questions,Dyshidrotic Eczema
-1,dyslexia-questions,Dyslexia
-1,dyslipidemia-questions,Dyslipidemia
-1,dysphonia-questions,Dysphonia
-1,dysplasia-questions,Dysplasia
-1,dyspnea-questions,Dyspnea
-1,e-coli-questions,E. Coli
-1,ear-canal-questions,Ear Canal
-1,ear-drum-questions,Ear Drum
-1,ear-infection-questions,Ear Infection
-1,eardrum-questions,Eardrum
-1,ears-questions,Ears
-1,earwax-blockage-questions,Earwax Blockage
-1,easily-distracted-questions,Easily Distracted
-1,eating-disorder-questions,Eating Disorder
-1,ebola-hemorrhagic-fever-questions,Ebola Hemorrhagic Fever
-1,echocardiogram-questions,Echocardiogram
-1,ectopic-pregnancy-questions,Ectopic Pregnancy
-1,edema-questions,Edema
-1,egg-white-cervical-mucus-questions,Egg White Cervical Mucus
-1,egg-whites-questions,Egg Whites
-1,egg-yolks-questions,Egg Yolks
-1,ehlers-danlos-syndrome-questions,Ehlers-Danlos Syndrome
-1,ejaculation-questions,Ejaculation
-1,elbow-questions,Elbow
-1,electric-shock-questions,Electric Shock
-1,electrocardiogram-questions,Electrocardiogram
-1,electroconvulsive-therapy-questions,Electroconvulsive Therapy
-1,electrocution-questions,Electrocution
-1,electroencephalogram-questions,Electroencephalogram
-1,electrogastrogram-questions,Electrogastrogram
-1,electrolyte-questions,Electrolyte
-1,emaciation-questions,Emaciation
-1,embolism-questions,Embolism
-1,emergency-room-questions,Emergency Room
-1,emg-questions,Electromyography
-1,emphysema-questions,Emphysema
-1,encephalitis-questions,Encephalitis
-1,encephalopathy-questions,Encephalopathy
-1,endometrial-ablation-questions,Endometrial Ablation
-1,endometrial-cancer-questions,Endometrial Cancer
-1,endometriosis-questions,Endometriosis
-1,endometrium-questions,Endometrium
-1,endoscopy-questions,Endoscopy
-1,enema-questions,Enema
-1,enlarged-heart-questions,Enlarged Heart
-1,eosinophilic-esophagitis-questions,Eosinophilic Esophagitis
-1,epidermal-cyst-questions,Epidermal Cyst
-1,epididymitis-questions,Epididymitis
-1,epidural-questions,Epidural
-1,epiglottitis-questions,Epiglottitis
-1,epilepsy-questions,Epilepsy
-1,epinephrine-questions,Epinephrine
-1,epistaxis-questions,Epistaxis
-1,erectile-dysfunction-questions,Erectile Dysfunction
-1,erection-questions,Erection
-1,erosion-questions,Erosion
-1,erythema-nodosum-questions,Erythema Nodosum
-1,erythema-questions,Erythema
-1,esophageal-spasm-questions,Esophageal Spasm
-1,esophagitis-questions,Esophagitis
-1,esophagogastroduodenoscopy-questions,Esophagogastroduodenoscopy
-1,esophagus-questions,Esophagus
-1,essential-hypertension-questions,Essential Hypertension
-1,essential-tremor-questions,Essential Tremor
-1,estrogen-questions,Estrogen
-1,eustachian-tube-dysfunction-questions,Eustachian Tube Dysfunction
-1,exercise-questions,Exercise
-1,exercise-stress-test-questions,Exercise Stress Test
-1,exposure-questions,Exposure
-1,eye-allergy-questions,Eye Allergy
-1,eye-socket-questions,Eye Socket
-1,eyeball-questions,Eyeball
-1,eyebrow-questions,Eyebrow
-1,eyelid-questions,Eyelid
-1,eyes-questions,Eyes
-1,facial-nerve-questions,Facial Nerve
-1,facial-paralysis-questions,Facial Paralysis
-1,failure-to-thrive-questions,Failure To Thrive
-1,fainting-questions,Fainting
-1,fallopian-tube-questions,Fallopian Tube
-1,familial-combined-hyperlipidemia-questions,Familial Combined Hyperlipidemia
-1,family-questions,Family
-1,fasciitis-questions,Fasciitis
-1,fasciotomy-questions,Fasciotomy
-1,fast-food-questions,Fast Food
-1,fatigue-questions,Fatigue
-1,fatty-liver-disease-questions,Fatty Liver Disease
-1,fear-questions,Fear
-1,fecal-incontinence-questions,Fecal Incontinence
-1,feeding-questions,Feeding
-1,femur-questions,Femur
-1,fertility-questions,Fertility
-1,feta-cheese-questions,Feta Cheese
-1,fetal-alcohol-syndrome-questions,Fetal Alcohol Syndrome
-1,fetus-questions,Fetus
-1,fever-blister-questions,Fever Blister
-1,fever-questions,Fever
-1,fiber-questions,Fiber
-1,fibromyalgia-questions,Fibromyalgia
-1,fibrosis-questions,Fibrosis
-1,fifth-disease-questions,Fifth Disease
-1,fig-questions,Fig
-1,fine-needle-aspiration-questions,Fine Needle Aspiration
-1,finger-questions,Finger
-1,fingernail-questions,Fingernail
-1,first-aid-questions,First Aid
-1,first-trimester-questions,First Trimester
-1,fish-questions,Fish
-1,fissure-questions,Fissure
-1,fistula-questions,Fistula
-1,fitness-questions,Fitness
-1,flashback-questions,Flashback
-1,flat-feet-questions,Flat Feet
-1,flatulence-questions,Flatulence
-1,flax-questions,flax
-1,flaxseed-oil-questions,flaxseed oil
-1,flaxseed-questions,flaxseed
-1,florida-questions,Florida
-1,flour-questions,Flour
-1,flu-questions,Flu
-1,fluoride-questions,Fluoride
-1,fluoroscopy-questions,Fluoroscopy
-1,folic-acid-questions,Folic Acid
-1,folliculitis-questions,Folliculitis
-1,food-allergy-questions,Food Allergy
-1,food-poisoning-questions,Food Poisoning
-1,food-questions,Food
-1,foot-questions,Foot
-1,forearm-questions,Forearm
-1,forehead-questions,Forehead
-1,foreskin-questions,Foreskin
-1,foreskin-restoration-questions,Foreskin Restoration
-1,forgetfulness-questions,Forgetfulness
-1,fracture-questions,Fracture
-1,freckle-questions,Freckle
-1,fried-chicken-questions,Fried Chicken
-1,frostbite-questions,Frostbite
-1,frozen-yogurt-questions,Frozen Yogurt
-1,fruit-questions,Fruit
-1,fudge-questions,Fudge
-1,furuncle-questions,Furuncle
-1,fuzziness-questions,Fuzziness
-1,gallbladder-cancer-questions,Gallbladder Cancer
-1,gallbladder-disease-questions,Gallbladder Disease
-1,gallbladder-questions,Gallbladder
-1,gallbladder-removal-questions,Gallbladder Removal
-1,gallstone-questions,Gallstone
-1,ganglion-cyst-questions,Ganglion Cyst
-1,ganglion-questions,Ganglion
-1,garlic-questions,Garlic
-1,gasoline-questions,Gasoline
-1,gastric-bypass-surgery-questions,Gastric Bypass Surgery
-1,gastritis-questions,Gastritis
-1,gastroenteritis-questions,Gastroenteritis
-1,gastroparesis-questions,Gastroparesis
-1,gender-questions,Gender
-1,general-anesthesia-questions,General Anesthesia
-1,generalized-epilepsy-questions,Generalized Epilepsy
-1,genetic-disorder-questions,Genetic Disorder
-1,genetic-testing-questions,Genetic Testing
-1,genital-herpes-questions,Genital Herpes
-1,genital-wart-questions,Genital Wart
-1,genitalia-questions,Genitalia
-1,geographic-tongue-questions,Geographic Tongue
-1,georgia-questions,Georgia
-1,gestational-diabetes-questions,Gestational Diabetes
-1,giddiness-questions,Giddiness
-1,ginger-questions,Ginger
-1,gingivitis-questions,Gingivitis
-1,ginkgo-biloba-questions,Ginkgo Biloba
-1,ginseng-questions,Ginseng
-1,glaucoma-questions,Glaucoma
-1,glycerin-questions,Glycerin
-1,goiter-questions,Goiter
-1,gonorrhea-questions,Gonorrhea
-1,gout-questions,Gout
-1,graft-questions,Graft
-1,grains-questions,Grains
-1,granuloma-annulare-questions,Granuloma Annulare
-1,grape-questions,Grape
-1,grapefruit-questions,Grapefruit
-1,graves-disease-questions,Graves Disease
-1,grayness-questions,Grayness
-1,grief-questions,Grief
-1,grip-questions,Grip
-1,growth-hormone-deficiency-questions,Growth Hormone Deficiency
-1,gum-disease-questions,Gum Disease
-1,gynecomastia-questions,Gynecomastia
-1,h-pylori-questions,H. Pylori
-1,hair-loss-questions,Hair Loss
-1,hair-questions,Hair
-1,hallucination-questions,Hallucination
-1,hamburger-questions,Hamburger
-1,hammertoe-questions,Hammertoe
-1,hamstring-questions,Hamstring
-1,hand-foot-and-mouth-disease-questions,Hand Foot And Mouth Disease
-1,hand-questions,Hand
-1,hand-surgery-questions,Hand Surgery
-1,hay-fever-questions,Hay Fever
-1,head-injury-questions,Head Injury
-1,head-lice-questions,Head Lice
-1,head-questions,Head
-1,headache-questions,Headache
-1,healing-questions,Healing
-1,health-food-questions,Health Food
-1,health-insurance,Health insurance
-1,health-insurance-exchange,Health Insurance Exchange
-1,health-insurance-marketplace,Health Insurance Marketplace
-1,healthy-eating-questions,Healthy Eating
-1,hearing-loss-questions,Hearing Loss
-1,hearing-test-questions,Hearing Test
-1,heart-aneurysm-questions,Heart Aneurysm
-1,heart-attack-questions,Heart Attack
-1,heart-block-questions,Heart Block
-1,heart-disease-questions,Heart Disease
-1,heart-murmur-questions,Heart Murmur
-1,heart-questions,Heart
-1,heart-rhythm-disorder-questions,Heart Rhythm Disorder
-1,heart-surgery-questions,Heart Surgery
-1,heart-valve-questions,Heart Valve
-1,heartburn-questions,Heartburn
-1,heat-exhaustion-questions,Heat Exhaustion
-1,heat-intolerance-questions,Heat Intolerance
-1,heat-rash-questions,Heat Rash
-1,heat-stroke-questions,Heat Stroke
-1,heel-questions,Heel
-1,heel-spur-questions,Heel Spur
-1,height-questions,Height
-1,hemangioma-questions,Hemangioma
-1,hematoma-questions,Hematoma
-1,hematospermia-questions,Hematospermia
-1,hemmorhoid-questions,Hemmorhoid
-1,hemochromatosis-questions,Hemochromatosis
-1,hemoglobin-questions,Hemoglobin
-1,hemorrhoid-questions,Hemorrhoid
-1,hemorrhoidectomy-questions,Hemorrhoidectomy
-1,henoch-schonlein-purpura-questions,Henoch-Schonlein Purpura
-1,hepatitis-a-questions,Hepatitis A
-1,hepatitis-b-questions,Hepatitis B
-1,hepatitis-c-questions,Hepatitis C
-1,hepatitis-questions,Hepatitis
-1,hepatobiliary-iminodiacetic-acid-scan-questions,Hepatobiliary Iminodiacetic Acid Scan
-1,hepatocellular-carcinoma-questions,Hepatocellular Carcinoma
-1,herb-questions,Herb
-1,hernia-questions,Hernia
-1,hernia-repair-questions,Hernia Repair
-1,herniated-disc-questions,Herniated Disc
-1,herniated-disk-questions,Herniated Disk
-1,herpes-questions,Herpes
-1,herpes-simplex-questions,Herpes Simplex
-1,herpetic-whitlow-questions,Herpetic Whitlow
-1,hiatal-hernia-questions,Hiatal Hernia
-1,hiccup-questions,Hiccup
-1,high-blood-pressure-questions,High Blood Pressure
-1,high-cholesterol-questions,High Cholesterol
-1,high-fructose-corn-syrup-questions,High Fructose Corn Syrup
-1,high-protein-diet-questions,High Protein Diet
-1,high-risk-pregnancy-questions,High-Risk Pregnancy
-1,hike-questions,Hike
-1,hip-pain-questions,Hip Pain
-1,hip-replacement,Hip Replacement
-1,hirschsprungs-disease-questions,Hirschsprung's Disease
-1,hirsutism-questions,Hirsutism
-1,hissing-questions,Hissing
-1,histrionic-personality-disorder-questions,Histrionic Personality Disorder
-1,hiv-questions,HIV
-1,hiv-test-questions,HIV Test
-1,hives-questions,Hives
-1,hoarseness-questions,Hoarseness
-1,hodgkins-lymphoma-questions,Hodgkin's Lymphoma
-1,honey-questions,Honey
-1,hookworm-questions,Hookworm
-1,hormonal-therapy-questions,Hormonal Therapy
-1,hormone-imbalance-questions,Hormone Imbalance
-1,hormone-questions,Hormone
-1,hormone-replacement-therapy-questions,Hormone Replacement Therapy
-1,horners-syndrome-questions,Horner's Syndrome
-1,hot-dog-questions,Hot Dog
-1,hot-flash-questions,Hot Flash
-1,human-growth-hormone-questions,Human Growth Hormone
-1,human-papillomavirus-questions,Human Papillomavirus
-1,hunger-questions,Hunger
-1,hydrocele-questions,Hydrocele
-1,hydrocephalus-questions,Hydrocephalus
-1,hydrocodone-questions,Hydrocodone
-1,hydrocortisone-questions,Hydrocortisone
-1,hydrogen-peroxide-questions,Hydrogen Peroxide
-1,hydronephrosis-questions,Hydronephrosis
-1,hymen-questions,Hymen
-1,hyperactive-behavior-questions,Hyperactive Behavior
-1,hyperactivity-questions,Hyperactivity
-1,hyperglycemia-questions,Hyperglycemia
-1,hyperhidrosis-questions,Hyperhidrosis
-1,hyperkalemia-questions,Hyperkalemia
-1,hyperlipidemia-questions,Hyperlipidemia
-1,hyperpigmentation-questions,Hyperpigmentation
-1,hyperplasia-questions,Hyperplasia
-1,hypersensitivity-questions,Hypersensitivity
-1,hyperthermia-questions,Hyperthermia
-1,hyperthyroidism-questions,Hyperthyroidism
-1,hypertrophic-cardiomyopathy-questions,Hypertrophic Cardiomyopathy
-1,hyperventilation-questions,Hyperventilation
-1,hypoglycemia-questions,Hypoglycemia
-1,hypogonadism-questions,Hypogonadism
-1,hyponatremia-questions,Hyponatremia
-1,hypospadias-questions,Hypospadias
-1,hypothermia-questions,Hypothermia
-1,hypothyroidism-questions,Hypothyroidism
-1,hypoventilation-questions,Hypoventilation
-1,hysterectomy-questions,Hysterectomy
-1,ibuprofen-questions,Ibuprofen
-1,ice-cream-questions,Ice Cream
-1,ichthyosis-questions,Ichthyosis
-1,icing-questions,Icing
-1,ileostomy-questions,Ileostomy
-1,immune-system-questions,Immune System
-1,immunization-questions,Immunization
-1,immunodeficiency-questions,Immunodeficiency
-1,immunotherapy-questions,Immunotherapy
-1,impetigo-questions,Impetigo
-1,implant-radiation-questions,Implant Radiation
-1,impotence-questions,Impotence
-1,impulsiveness-questions,Impulsiveness
-1,in-vitro-fertilization-questions,In Vitro Fertilization
-1,incontinence-questions,Incontinence
-1,index-finger-questions,Index Finger
-1,indiana-questions,Indiana
-1,indigestion-questions,Indigestion
-1,infant-formula-questions,Infant Formula
-1,infant-questions,Infant
-1,infarction-questions,Infarction
-1,infection-questions,Infection
-1,infertility-questions,Infertility
-1,inflammation-questions,Inflammation
-1,inflammatory-bowel-disease-questions,Inflammatory Bowel Disease
-1,infusion-questions,Infusion
-1,ingrown-nail-questions,Ingrown Nail
-1,ingrown-toenail-questions,Ingrown Toenail
-1,inhaler-questions,Inhaler
-1,injection-questions,Injection
-1,injury-questions,Injury
-1,insect-bite-questions,Insect Bite
-1,insect-sting-questions,Insect Sting
-1,insomnia-questions,Insomnia
-1,instability-questions,Instability
-1,insulin-questions,Insulin
-1,insulin-resistance-questions,Insulin Resistance
-1,insurance-questions,Insurance
-1,internal-bleeding-questions,Internal Bleeding
-1,interstitial-cystitis-questions,Interstitial Cystitis
-1,intestine-questions,Intestine
-1,intrauterine-device-questions,Intrauterine Device
-1,intrauterine-insemination-questions,Intrauterine Insemination
-1,iodine-questions,Iodine
-1,iris-questions,Iris
-1,iron-deficiency-anemia-questions,Iron Deficiency Anemia
-1,iron-questions,Iron
-1,irregularity-questions,Irregularity
-1,irritability-questions,Irritability
-1,irritable-bowel-syndrome-questions,Irritable Bowel Syndrome
-1,ischemia-questions,Ischemia
-1,itch-questions,Itch
-1,jalapeno-questions,Jalapeno
-1,jaundice-questions,Jaundice
-1,jaw-questions,Jaw
-1,jelly-questions,Jelly
-1,jet-lag-questions,Jet Lag
-1,jock-itch-questions,Jock Itch
-1,juice-questions,Juice
-1,kale-questions,Kale
-1,keloid-questions,Keloid
-1,kentucky-questions,Kentucky
-1,keratoconus-questions,Keratoconus
-1,keratosis-pilaris-questions,Keratosis Pilaris
-1,kernel-questions,Kernel
-1,ketchup-questions,Ketchup
-1,ketogenic-diet-questions,Ketogenic Diet
-1,kidney-cancer-questions,Kidney Cancer
-1,kidney-disease-questions,Kidney Disease
-1,kidney-failure-questions,Kidney Failure
-1,kidney-infection-questions,Kidney Infection
-1,kidney-questions,Kidney
-1,kidney-stone-questions,Kidney Stone
-1,kiwi-questions,Kiwi
-1,klinefelters-syndrome-questions,Klinefelter's Syndrome
-1,knee-pain-questions,Knee Pain
-1,knee-questions,Knee
-1,knocked-out-tooth-questions,Knocked Out Tooth
-1,kyphosis-questions,Kyphosis
-1,labor-questions,Labor
-1,laboratory-test-questions,Laboratory Test
-1,lactase-questions,Lactase
-1,lactate-questions,Lactate
-1,lactic-acid-questions,Lactic Acid
-1,lactose-intolerance-questions,Lactose Intolerance
-1,lactose-questions,Lactose
-1,laminectomy-questions,Laminectomy
-1,laminotomy-questions,Laminotomy
-1,lap-band-surgery-questions,Lap-Band Surgery
-1,laparoscopic-surgery-questions,Laparoscopic Surgery
-1,laparoscopy-questions,Laparoscopy
-1,laparotomy-questions,Laparotomy
-1,large-intestine-questions,Large Intestine
-1,laryngitis-questions,Laryngitis
-1,larynx-questions,Larynx
-1,laser-therapy-questions,Laser Therapy
-1,lasik-questions,LASIK
-1,lazy-eye-questions,Lazy Eye
-1,learning-disability-questions,Learning Disability
-1,leep-questions,LEEP
-1,left-ventricular-hypertrophy-questions,Left Ventricular Hypertrophy
-1,leg-questions,Leg
-1,legg-calve-perthes-disease-questions,Legg-Calve-Perthes Disease
-1,lemon-questions,Lemon
-1,lens-questions,Lens
-1,lentil-questions,Lentil
-1,leprosy-questions,Leprosy
-1,lettuce-questions,Lettuce
-1,leukemia-questions,Leukemia
-1,leukoplakia-questions,Leukoplakia
-1,lh-level-questions,LH Level
-1,li-fraumeni-syndrome-questions,Li-Fraumeni Syndrome
-1,libido-questions,Libido
-1,lice-infestation-questions,Lice Infestation
-1,lice-questions,Lice
-1,ligament-questions,Ligament
-1,lightheadedness-questions,Lightheadedness
-1,limb-questions,Limb
-1,lime-questions,Lime
-1,lip-questions,Lip
-1,lipid-questions,Lipid
-1,liposuction-questions,Liposuction
-1,lithium-questions,Lithium
-1,lithotomy-questions,Lithotomy
-1,lithotripsy-questions,Lithotripsy
-1,little-finger-questions,Little Finger
-1,liver-function-test-questions,Liver Function Test
-1,liver-questions,Liver
-1,liver-spots-questions,Liver Spots
-1,lobectomy-questions,Lobectomy
-1,lobster-questions,Lobster
-1,lockjaw-questions,Lockjaw
-1,long-term-effect-questions,Long-Term Effect
-1,lotion-questions,Lotion
-1,louisiana-questions,Louisiana
-1,low-blood-pressure-questions,Low Blood Pressure
-1,low-carb-diet-questions,Low Carb Diet
-1,low-hemoglobin-level-questions,Low Hemoglobin Level
-1,low-red-blood-cell-count-questions,Low Red Blood Cell Count
-1,low-self-esteem-questions,Low Self-Esteem
-1,lower-jaw-questions,Lower Jaw
-1,lubricants-questions,Lubricants
-1,lumbar-puncture-questions,Lumbar Puncture
-1,lumbar-spinal-stenosis-questions,Lumbar Spinal Stenosis
-1,lump-questions,Lump
-1,lumpectomy-questions,Lumpectomy
-1,lung-cancer-questions,Lung Cancer
-1,lung-disease-questions,Lung Disease
-1,lung-questions,Lung
-1,lupus-questions,Lupus
-1,luteinizing-hormone-questions,Luteinizing Hormone
-1,lyme-disease-questions,Lyme Disease
-1,lymph-node-questions,Lymph Node
-1,lymphedema-questions,Lymphedema
-1,lymphoma-questions,Lymphoma
-1,macadamia-questions,Macadamia
-1,macular-degeneration-questions,Macular Degeneration
-1,magnesium-questions,Magnesium
-1,magnetic-resonance-imaging-questions,Magnetic Resonance Imaging
-1,makeup-questions,Makeup
-1,malaria-questions,Malaria
-1,male-pattern-baldness-questions,Male Pattern Baldness
-1,malnutrition-questions,Malnutrition
-1,mammogram-questions,Mammogram
-1,mango-questions,Mango
-1,mania-questions,Mania
-1,manic-depressive-questions,Manic Depressive
-1,maple-questions,Maple
-1,margarine-questions,Margarine
-1,marijuana-questions,Marijuana
-1,mashed-potato-questions,Mashed Potato
-1,massage-questions,Massage
-1,mastectomy-questions,Mastectomy
-1,mastoidectomy-questions,Mastoidectomy
-1,mastoiditis-questions,Mastoiditis
-1,masturbation-questions,Masturbation
-1,mayonnaise-questions,Mayonnaise
-1,meal-questions,Meal
-1,measles-questions,Measles
-1,meat-questions,Meat
-1,medicaid,Medicaid
-1,medicare-questions,Medicare
-1,meditation-questions,Meditation
-1,melanoma-questions,Melanoma
-1,melasma-questions,Melasma
-1,melatonin-questions,Melatonin
-1,memory-loss-questions,Memory Loss
-1,menieres-disease-questions,Meniere's Disease
-1,meningioma-questions,Meningioma
-1,meningitis-questions,Meningitis
-1,meningococcal-questions,Meningococcal
-1,meniscus-questions,Meniscus
-1,menopause-questions,Menopause
-1,menstrual-cramp-questions,Menstrual Cramp
-1,menstrual-questions,Menstrual
-1,mental-breakdown-questions,Mental Breakdown
-1,mental-health-questions,Mental Health
-1,mercury-poisoning-questions,Mercury Poisoning
-1,merkel-cell-carcinoma-questions,Merkel Cell Carcinoma
-1,mesothelioma-questions,Mesothelioma
-1,metabolic-syndrome-questions,Metabolic Syndrome
-1,metabolism-questions,Metabolism
-1,metamucil-questions,Metamucil
-1,metastasis-questions,Metastasis
-1,metatarsalgia-questions,Metatarsalgia
-1,methadone-questions,Methadone
-1,methicillin-resistant-staphylococcus-aureus-questions,methicillin resistant staphylococcus aureus
-1,michigan-questions,Michigan
-1,middle-ear-questions,Middle Ear
-1,migraine-questions,Migraine
-1,milk-questions,Milk
-1,mineral-oil-questions,Mineral Oil
-1,mineral-water-questions,Mineral Water
-1,mint-questions,Mint
-1,miscarriage-questions,Miscarriage
-1,mite-questions,Mite
-1,mitochondrial-myopathy-questions,Mitochondrial Myopathy
-1,mitral-valve-prolapse-questions,Mitral Valve Prolapse
-1,molar-questions,Molar
-1,mold-questions,Mold
-1,mole-questions,Mole
-1,molluscum-contagiosum-questions,Molluscum Contagiosum
-1,monoamine-oxidase-inhibitor-questions,Monoamine Oxidase Inhibitor
-1,mononucleosis-questions,Mononucleosis
-1,mood-swing-questions,Mood Swing
-1,morbid-obesity-questions,Morbid Obesity
-1,morning-after-pill-questions,Morning After Pill
-1,morning-sickness-questions,Morning Sickness
-1,morphine-questions,Morphine
-1,motion-sickness-questions,Motion Sickness
-1,motor-neuron-disease-questions,Motor Neuron Disease
-1,mouth-questions,Mouth
-1,mouth-ulcers-questions,Mouth Ulcers
-1,movement-questions,Movement
-1,mozzarella-questions,Mozzarella
-1,mucus-questions,Mucus
-1,multiple-sclerosis-questions,Multiple Sclerosis
-1,multivitamin-questions,Multivitamin
-1,multivitamins-questions,Multivitamins
-1,mumps-questions,Mumps
-1,muscle-questions,Muscle
-1,muscular-dystrophy-questions,Muscular Dystrophy
-1,mushroom-questions,Mushroom
-1,myasthenia-gravis-questions,Myasthenia Gravis
-1,myelogram-questions,Myelogram
-1,myeloma-questions,Myeloma
-1,myoclonus-questions,Myoclonus
-1,myomectomy-questions,Myomectomy
-1,myopathy-questions,Myopathy
-1,nafld-questions,NAFLD
-1,nail-fungus-questions,Nail Fungus
-1,nail-questions,Nail
-1,naproxen-questions,Naproxen
-1,narcolepsy-questions,Narcolepsy
-1,narcotic-questions,Narcotic
-1,nasal-spray-questions,Nasal Spray
-1,nash-questions,NASH
-1,nausea-questions,Nausea
-1,nebulization-questions,Nebulization
-1,neck-questions,Neck
-1,necrosis-questions,Necrosis
-1,nephrectomy-questions,Nephrectomy
-1,nerve-block-questions,Nerve Block
-1,nerve-questions,Nerve
-1,nervousness-questions,Nervousness
-1,neural-tube-defect-questions,Neural Tube Defect
-1,neuralgia-questions,Neuralgia
-1,neuritis-questions,Neuritis
-1,neurogenic-bladder-questions,Neurogenic Bladder
-1,neurological-disease-questions,Neurological Disease
-1,neuropathy-questions,Neuropathy
-1,newborn-jaundice-questions,Newborn Jaundice
-1,newborn-questions,Newborn
-1,newyork-questions,New York
-1,niacin-questions,Niacin
-1,nicotine-questions,Nicotine
-1,night-terror-questions,Night Terror
-1,nightmare-questions,Nightmare
-1,nipple-questions,Nipple
-1,nodule-questions,Nodule
-1,non-small-cell-lung-cancer-questions,Non-Small Cell Lung Cancer
-1,noodle-questions,Noodle
-1,northnarolina-questions,North Carolina
-1,nose-questions,Nose
-1,nostril-questions,Nostril
-1,nsaid-questions,Nsaid
-1,numbness-questions,Numbness
-1,nutrition-questions,Nutrition
-1,oatmeal-questions,Oatmeal
-1,obamacare,Obamacare
-1,obesity-questions,Obesity
-1,obsessive-compulsive-disorder-questions,Obsessive-Compulsive Disorder
-1,obstructive-sleep-apnea-questions,Obstructive Sleep Apnea
-1,occulta-questions,Occulta
-1,occupational-therapy-questions,Occupational Therapy
-1,ohio-questions,Ohio
-1,oil-questions,Oil
-1,okra-questions,Okra
-1,olive-questions,Olive
-1,omega-3-questions,Omega-3
-1,onion-questions,Onion
-1,open-heart-surgery-questions,Open Heart Surgery
-1,optic-nerve-questions,Optic Nerve
-1,oral-cancer-questions,Oral Cancer
-1,oral-glucose-tolerance-test-questions,Oral Glucose Tolerance Test
-1,oral-herpes-questions,Oral Herpes
-1,orange-questions,Orange
-1,orchiectomy-questions,Orchiectomy
-1,orchitis-questions,Orchitis
-1,oregon-questions,Oregon
-1,organ-questions,Organ
-1,orgasm-questions,Orgasm
-1,osteoarthritis-questions,Osteoarthritis
-1,osteonecrosis-questions,Osteonecrosis
-1,osteopenia-questions,Osteopenia
-1,osteoporosis-questions,Osteoporosis
-1,osteotomy-questions,Osteotomy
-1,ostomy-questions,Ostomy
-1,otitis-externa-questions,Otitis Externa
-1,otitis-media-with-effusion-questions,Otitis Media With Effusion
-1,ovarian-cancer-questions,Ovarian Cancer
-1,ovarian-cyst-questions,Ovarian Cyst
-1,ovary-questions,Ovary
-1,over-the-counter-questions,Over The Counter
-1,overactive-bladder-questions,Overactive Bladder
-1,ovulation-calculator-questions,Ovulation Calculator
-1,ovulation-chart-questions,Ovulation Chart
-1,ovulation-prediction-kit-questions,Ovulation Prediction Kit
-1,ovulation-questions,Ovulation
-1,oxycodone-questions,Oxycodone
-1,oxygen-questions,Oxygen
-1,oyster-questions,Oyster
-1,pacemaker-questions,Pacemaker
-1,pain-management-questions,Pain Management
-1,pain-questions,Pain
-1,pain-relief-questions,Pain Relief
-1,painful-ovulation-questions,Painful Ovulation
-1,painful-urination-questions,Painful Urination
-1,painkiller-questions,Painkiller
-1,palate-questions,Palate
-1,palpation-questions,Palpation
-1,palpitation-questions,Palpitation
-1,pancreas-questions,Pancreas
-1,pancreatic-cancer-questions,Pancreatic Cancer
-1,pancreatitis-questions,Pancreatitis
-1,panic-attack-questions,Panic Attack
-1,panic-disorder-questions,Panic Disorder
-1,pap-test-questions,Pap Test
-1,paralysis-questions,Paralysis
-1,paranoia-questions,Paranoia
-1,paranoid-behavior-questions,Paranoid Behavior
-1,paraphimosis-questions,Paraphimosis
-1,paraplegia-questions,Paraplegia
-1,parasite-questions,Parasite
-1,parenting-questions,Parenting
-1,paresthesia-questions,Paresthesia
-1,parkinsons-disease-questions,Parkinson's Disease
-1,paronychia-questions,Paronychia
-1,parsley-questions,Parsley
-1,pasta-questions,Pasta
-1,pastry-questions,Pastry
-1,pea-questions,Pea
-1,peach-questions,Peach
-1,peanut-butter-questions,Peanut Butter
-1,peanut-questions,Peanut
-1,pear-questions,Pear
-1,pecan-questions,Pecan
-1,pectoral-muscle-questions,Pectoral Muscle
-1,pedialyte-questions,Pedialyte
-1,pellagra-questions,Pellagra
-1,pelvic-area-questions,Pelvic Area
-1,pelvic-exam-questions,Pelvic Exam
-1,pelvic-inflammatory-disease-questions,Pelvic Inflammatory Disease
-1,pelvic-pain-questions,Pelvic Pain
-1,pelvis-questions,Pelvis
-1,penicillin-questions,Penicillin
-1,penile-cancer-questions,Penile Cancer
-1,penis-questions,Penis
-1,pepper-questions,Pepper
-1,peppermint-oil-questions,Peppermint Oil
-1,peppermint-questions,Peppermint
-1,pepperoni-questions,Pepperoni
-1,peptic-ulcer-questions,Peptic Ulcer
-1,perforated-eardrum-questions,Perforated Eardrum
-1,pericarditis-questions,Pericarditis
-1,perimenopause-questions,Perimenopause
-1,period-questions,Period
-1,periodontitis-questions,Periodontitis
-1,perioral-dermatitis-questions,Perioral Dermatitis
-1,peripheral-artery-disease-questions,Peripheral Artery Disease
-1,peripheral-neuropathy-questions,Peripheral Neuropathy
-1,peripheral-vascular-disease-questions,Peripheral Vascular Disease
-1,pernicious-anemia-questions,Pernicious Anemia
-1,personality-disorder-questions,Personality Disorder
-1,pervasive-development-disorders-questions,Pervasive Development Disorders
-1,pets-questions,Pets
-1,pharyngitis-questions,Pharyngitis
-1,phlebotomy-questions,Phlebotomy
-1,phobia-questions,Phobia
-1,photophobia-questions,Photophobia
-1,photosensitivity-questions,Photosensitivity
-1,physical-therapy-questions,Physical Therapy
-1,pickle-questions,Pickle
-1,pie-questions,Pie
-1,piercing-questions,Piercing
-1,pilates-questions,Pilates
-1,pilonidal-cyst-questions,Pilonidal Cyst
-1,pinched-nerve-questions,Pinched Nerve
-1,pineapple-questions,Pineapple
-1,pink-eye-questions,Pink Eye
-1,pinworm-questions,Pinworm
-1,pituitary-gland-questions,Pituitary Gland
-1,pituitary-tumor-questions,Pituitary Tumor
-1,pizza-questions,Pizza
-1,placenta-questions,Placenta
-1,plant-questions,Plant
-1,plantar-fasciitis-questions,Plantar Fasciitis
-1,plantar-wart-questions,Plantar Wart
-1,plaque-questions,Plaque
-1,plastic-surgery-questions,Plastic Surgery
-1,platelet-questions,Platelet
-1,pleurisy-questions,Pleurisy
-1,pneumonia-questions,Pneumonia
-1,poison-ivy-questions,Poison Ivy
-1,poison-oak-questions,Poison Oak
-1,poisoning-questions,Poisoning
-1,polio-questions,Polio
-1,polycystic-ovarian-syndrome-questions,Polycystic Ovarian Syndrome
-1,polymyositis-questions,Polymyositis
-1,polyp-questions,Polyp
-1,popcorn-questions,Popcorn
-1,poppy-questions,Poppy
-1,poppy-seed-questions,Poppy Seed
-1,pore-questions,Pore
-1,pork-questions,Pork
-1,porphyria-questions,Porphyria
-1,positron-emission-tomography-scan-questions,Positron Emission Tomography Scan
-1,post-concussion-syndrome-questions,Post-Concussion Syndrome
-1,post-menopause-questions,Post-Menopause
-1,post-nasal-drip-questions,Post Nasal Drip
-1,post-traumatic-stress-disorder-questions,Post-Traumatic Stress Disorder
-1,posterior-cruciate-ligament-injury-questions,Posterior Cruciate Ligament Injury
-1,postpartum-depression-questions,Postpartum Depression
-1,pot-roast-questions,Pot Roast
-1,potassium-chloride-questions,Potassium Chloride
-1,potassium-questions,Potassium
-1,potato-questions,Potato
-1,pre-existing-condition,pre-existing condition
-1,pre-school-questions,Pre-School
-1,precocious-puberty-questions,Precocious Puberty
-1,preeclampsia-questions,Preeclampsia
-1,pregnancy-questions,Pregnancy
-1,pregnancy-test-questions,Pregnancy Test
-1,premature-ejaculation-questions,Premature Ejaculation
-1,premature-menopause-questions,Premature Menopause
-1,premenstrual-syndrome-questions,Premenstrual Syndrome
-1,prenatal-vitamin-questions,Prenatal Vitamin
-1,preservative-questions,Preservative
-1,pressure-questions,Pressure
-1,pressure-ulcer-questions,Pressure Ulcer
-1,preterm-labor-questions,Preterm Labor
-1,priapism-questions,Priapism
-1,primary-biliary-cirrhosis-questions,Primary Biliary Cirrhosis
-1,prolapsed-bladder-questions,Prolapsed Bladder
-1,prolapsed-uterus-questions,Prolapsed Uterus
-1,prostate-cancer-questions,Prostate Cancer
-1,prostate-questions,Prostate
-1,prostate-specific-antigen-test-questions,Prostate-Specific Antigen Test
-1,prostatectomy-questions,Prostatectomy
-1,prostatitis-questions,Prostatitis
-1,protein-questions,Protein
-1,protein-s-deficiency-questions,Protein S Deficiency
-1,proton-pump-inhibitor-questions,Proton Pump Inhibitor
-1,psoriasis-questions,Psoriasis
-1,psoriatic-arthritis-questions,Psoriatic Arthritis
-1,psychosis-questions,Psychosis
-1,psychotherapy-questions,Psychotherapy
-1,puberty-questions,Puberty
-1,pubic-lice-questions,Pubic Lice
-1,pudding-questions,Pudding
-1,puffiness-questions,Puffiness
-1,pulmonary-embolism-questions,Pulmonary Embolism
-1,pulmonary-hypertension-questions,Pulmonary Hypertension
-1,pulse-questions,Pulse
-1,pumpkin-questions,Pumpkin
-1,puncture-questions,Puncture
-1,puncture-wound-questions,Puncture Wound
-1,pupil-questions,Pupil
-1,purpura-questions,Purpura
-1,pyelonephritis-questions,Pyelonephritis
-1,quit-smoking-questions,Quit Smoking
-1,rabies-questions,Rabies
-1,radial-keratotomy-questions,Radial Keratotomy
-1,radiation-sickness-questions,Radiation Sickness
-1,radical-prostatectomy-questions,Radical Prostatectomy
-1,radiculopathy-questions,Radiculopathy
-1,radish-questions,Radish
-1,range-of-motion-questions,Range Of Motion
-1,rapid-strep-test-questions,Rapid Strep Test
-1,rash-questions,Rash
-1,raspberry-questions,Raspberry
-1,raynauds-phenomenon-questions,Raynaud's Phenomenon
-1,razor-burn-questions,Razor Burn
-1,reaction-questions,Reaction
-1,reactive-attachment-disorder-questions,Reactive Attachment Disorder
-1,recipe-questions,Recipe
-1,reconstructive-surgery-questions,Reconstructive Surgery
-1,rectal-prolapse-questions,Rectal Prolapse
-1,rectum-questions,Rectum
-1,red-raspberry-questions,Red Raspberry
-1,red-wine-questions,Red Wine
-1,referred-pain-questions,Referred Pain
-1,reflex-questions,Reflux
-1,rehabilitation-questions,Rehabilitation
-1,renal-cell-carcinoma-questions,Renal Cell Carcinoma
-1,resection-questions,Resection
-1,restless-leg-syndrome-questions,Restless Leg Syndrome
-1,restless-legs-syndrome-questions,Restless Legs Syndrome
-1,restlessness-questions,Restlessness
-1,retina-questions,Retina
-1,retinitis-pigmentosa-questions,Retinitis Pigmentosa
-1,retrograde-ejaculation-questions,Retrograde Ejaculation
-1,rhabdomyosarcoma-questions,Rhabdomyosarcoma
-1,rheumatic-fever-questions,Rheumatic Fever
-1,rheumatoid-arthritis-questions,Rheumatoid Arthritis
-1,rhinitis-questions,Rhinitis
-1,rhinoplasty-questions,Rhinoplasty
-1,ribcage-questions,Ribcage
-1,riboflavin-questions,Riboflavin
-1,rice-milk-questions,Rice Milk
-1,rice-questions,Rice
-1,rickets-questions,Rickets
-1,ring-finger-questions,Ring Finger
-1,ringworm-questions,Ringworm
-1,roast-questions,Roast
-1,rocky-mountain-spotted-fever-questions,Rocky Mountain Spotted Fever
-1,rosacea-questions,Rosacea
-1,roseola-questions,Roseola
-1,rotator-cuff-injury-questions,Rotator Cuff Injury
-1,rotator-cuff-questions,Rotator Cuff
-1,running-questions,Running
-1,runny-nose-questions,Runny Nose
-1,ruptured-eardrum-questions,Ruptured Eardrum
-1,rye-questions,Rye
-1,sacroiliac-joint-questions,Sacroiliac Joint
-1,sadness-questions,Sadness
-1,salad-dressing-questions,Salad Dressing
-1,salad-questions,Salad
-1,salicylic-acid-questions,Salicylic Acid
-1,salivary-gland-questions,Salivary Gland
-1,salmon-questions,Salmon
-1,salpingectomy-questions,Salpingectomy
-1,salt-questions,Salt
-1,sarcoma-questions,Sarcoma
-1,sausage-questions,Sausage
-1,scabies-questions,Scabies
-1,scalp-questions,Scalp
-1,scapula-questions,Scapula
-1,scar-questions,Scar
-1,scarlet-fever-questions,Scarlet Fever
-1,schizophrenia-questions,Schizophrenia
-1,sciatica-questions,Sciatica
-1,scleroderma-questions,Scleroderma
-1,scoliosis-questions,Scoliosis
-1,scrape-questions,Scrape
-1,screening-questions,Screening
-1,scrotum-questions,Scrotum
-1,sea-sickness-questions,Sea Sickness
-1,seafood-questions,Seafood
-1,seasoning-questions,Seasoning
-1,seborrhea-questions,Seborrhea
-1,seborrheic-dermatitis-questions,Seborrheic Dermatitis
-1,second-degree-burn-questions,Second Degree Burn
-1,second-hand-smoke-questions,Second-Hand Smoke
-1,second-trimester-questions,Second Trimester
-1,secondary-amenorrhea-questions,Secondary Amenorrhea
-1,seeds-questions,Seeds
-1,seizure-disorder-questions,Seizure Disorder
-1,seizure-questions,Seizure
-1,self-exam-questions,Self-Exam
-1,senility-questions,Senility
-1,separation-anxiety-questions,Separation Anxiety
-1,sepsis-questions,Sepsis
-1,septic-shock-questions,Septic Shock
-1,serotonin-questions,Serotonin
-1,severe-allergic-reaction-questions,Severe Allergic Reaction
-1,severe-morning-sickness-questions,Severe Morning Sickness
-1,sexual-abuse-questions,Sexual Abuse
-1,sexual-assault-questions,Sexual Assault
-1,sexual-dysfunction-questions,Sexual Dysfunction
-1,sexual-intercourse-questions,Sexual Intercourse
-1,sexual-problem-questions,Sexual Problem
-1,sexually-transmitted-disease-questions,Sexually Transmitted Disease
-1,sgpt-questions,SGPT
-1,shallot-questions,Shallot
-1,shaving-questions,Shaving
-1,shellfish-questions,Shellfish
-1,shift-work-sleep-disorder-questions,Shift Work Sleep Disorder
-1,shin-questions,Shin
-1,shingles-questions,Shingles
-1,shock-questions,Shock
-1,short-attention-span-questions,Short Attention Span
-1,short-stature-questions,Short Stature
-1,short-term-memory-loss-questions,Short-Term Memory Loss
-1,shoulder-blade-questions,Shoulder Blade
-1,shoulder-bursitis-questions,Shoulder Bursitis
-1,shoulder-questions,Shoulder
-1,shrimp-questions,Shrimp
-1,sids-questions,SIDS
-1,sigmoidoscopy-questions,Sigmoidoscopy
-1,sinus-bradycardia-questions,Sinus Bradycardia
-1,sinus-infection-questions,Sinus Infection
-1,sinus-questions,Sinus
-1,skin-cancer-questions,Skin Cancer
-1,skin-questions,Skin
-1,skin-tag-questions,Skin Tag
-1,skull-fracture-questions,Skull Fracture
-1,skull-questions,Skull
-1,sleep-apnea-questions,Sleep Apnea
-1,sleep-disorder-questions,Sleep Disorder
-1,sleepiness-questions,Sleepiness
-1,sleepwalking-questions,Sleepwalking
-1,slipped-disc-questions,Slipped Disc
-1,small-cell-lung-cancer-questions,Small Cell Lung Cancer
-1,small-intestine-questions,Small Intestine
-1,smell-questions,Smell
-1,smoking-questions,Smoking
-1,snack-questions,Snack
-1,snorer-questions,Snorer
-1,social-phobia-questions,Social Phobia
-1,soda-questions,Soda
-1,sodium-chloride-questions,Sodium Chloride
-1,sodium-questions,Sodium
-1,soft-tissue-questions,Soft Tissue
-1,sore-questions,Sore
-1,sore-throat-questions,Sore Throat
-1,soup-questions,Soup
-1,sour-cream-questions,Sour Cream
-1,south-beach-diet-questions,South Beach Diet
-1,soy-milk-questions,Soy Milk
-1,soy-questions,Soy
-1,spaghetti-questions,Spaghetti
-1,spasm-questions,Spasm
-1,specific-phobias-questions,Specific Phobias
-1,sperm-questions,Sperm
-1,sphincter-questions,Sphincter
-1,spider-bite-questions,Spider Bite
-1,spider-vein-questions,Spider Vein
-1,spina-bifida-questions,Spina Bifida
-1,spinach-questions,Spinach
-1,spinal-cord-injury-questions,Spinal Cord Injury
-1,spinal-cord-questions,Spinal Cord
-1,spinal-fusion-questions,Spinal Fusion
-1,spinal-injury-questions,Spinal Injury
-1,spinal-meningitis-questions,Spinal Meningitis
-1,spinal-stenosis-questions,Spinal Stenosis
-1,spine-questions,Spine
-1,spit-questions,Spit
-1,spitting-up-questions,Spitting Up
-1,splint-questions,Splint
-1,splinter-questions,Splinter
-1,spondylitis-questions,Spondylitis
-1,spotting-questions,Spotting
-1,sprain-questions,Sprain
-1,squash-questions,Squash
-1,st-johns-wort-questions,St. John's Wort
-1,staph-infection-questions,Staph Infection
-1,staphylococcus-aureus-questions,Staphylococcus Aureus
-1,std-test-questions,STD Test
-1,stem-cell-questions,Stem Cell
-1,stem-cell-treatment-questions,Stem Cell Treatment
-1,stent-questions,Stent
-1,sternum-questions,Sternum
-1,steroid-questions,Steroid
-1,stiff-person-syndrome-questions,Stiff Person Syndrome
-1,stillbirth-questions,Stillbirth
-1,sting-questions,Sting
-1,stitches-questions,Stitches
-1,stomach-cancer-questions,Stomach Cancer
-1,stomach-questions,Stomach
-1,stomachache-questions,Stomachache
-1,stomatitis-questions,Stomatitis
-1,stool-culture-questions,Stool Culture
-1,strawberry-questions,Strawberry
-1,strep-throat-questions,Strep Throat
-1,stress-fracture-questions,Stress Fracture
-1,stress-incontinence-questions,Stress Incontinence
-1,stress-questions,Stress
-1,stretch-mark-questions,Stretch Mark
-1,stroke-questions,Stroke
-1,stuffy-nose-questions,Stuffy Nose
-1,sty-questions,Sty
-1,subconjunctival-hemorrhage-questions,Subconjunctival Hemorrhage
-1,subdural-hematoma-questions,Subdural Hematoma
-1,suicide-questions,Suicide
-1,sulfur-questions,Sulfur
-1,sunburn-questions,Sunburn
-1,sunflower-questions,Sunflower
-1,sunscreen-questions,Sunscreen
-1,supplement-questions,Supplement
-1,surgery-questions,Surgery
-1,sushi-questions,Sushi
-1,swallow-questions,Swallow
-1,swallowing-problem-questions,Swallowing Problem
-1,sweating-questions,Sweating
-1,sweet-potato-questions,Sweet Potato
-1,swelling-questions,Swelling
-1,swimmers-ear-questions,Swimmer's Ear
-1,swine-flu-questions,Swine Flu
-1,syphilis-questions,Syphilis
-1,syrup-questions,Syrup
-1,systematic-desensitization-questions,Systematic Desensitization
-1,systemic-questions,Systemic
-1,tachycardia-questions,Tachycardia
-1,tai-chi-questions,Tai Chi
-1,tailbone-questions,Tailbone
-1,talc-questions,Talc
-1,tampon-questions,Tampon
-1,tapeworm-infection-questions,Tapeworm Infection
-1,tar-syndrome-questions,Tar Syndrome
-1,tardive-dyskinesia-questions,Tardive Dyskinesia
-1,target-heart-rate-questions,Target Heart Rate
-1,taste-questions,Taste
-1,tattoo-questions,Tattoo
-1,tea-questions,Tea
-1,tea-tree-oil-questions,Tea Tree Oil
-1,tear-duct-questions,Tear Duct
-1,teething-questions,Teething
-1,temper-tantrums-questions,Temper Tantrums
-1,temperature-questions,Temperature
-1,temporomandibular-joint-disorder-questions,Temporomandibular Joint Disorder
-1,tenderness-questions,Tenderness
-1,tendinitis-questions,Tendinitis
-1,tendon-questions,Tendon
-1,tendonitis-questions,Tendonitis
-1,tennis-elbow-questions,Tennis Elbow
-1,tension-headache-questions,Tension Headache
-1,testicle-questions,Testicle
-1,testicular-cancer-questions,Testicular Cancer
-1,testicular-torsion-questions,Testicular Torsion
-1,testosterone-questions,Testosterone
-1,tetanus-questions,Tetanus
-1,texas-questions,Texas
-1,thallium-stress-test-questions,Thallium Stress Test
-1,therapeutic-questions,Therapeutic
-1,thermal-ablation-questions,Thermal Ablation
-1,thermometer-questions,Thermometer
-1,thigh-questions,Thigh
-1,third-trimester-questions,Third Trimester
-1,thirst-questions,Thirst
-1,thoracotomy-questions,Thoracotomy
-1,throat-questions,Throat
-1,thrombosis-questions,Thrombosis
-1,thrush-questions,Thrush
-1,thumb-questions,Thumb
-1,thymoma-questions,Thymoma
-1,thyroid-cancer-questions,Thyroid Cancer
-1,thyroid-disease-questions,Thyroid Disease
-1,thyroid-nodule-questions,Thyroid Nodule
-1,thyroid-questions,Thyroid
-1,thyroidectomy-questions,Thyroidectomy
-1,thyroiditis-questions,Thyroiditis
-1,tibia-questions,Tibia
-1,tic-questions,Tic
-1,tick-bite-questions,Tick Bite
-1,tick-questions,Tick
-1,tightness-questions,Tightness
-1,tinea-versicolor-questions,Tinea Versicolor
-1,tinnitus-questions,Tinnitus
-1,tobacco-questions,Tobacco
-1,toddler-questions,Toddler
-1,toe-questions,Toe
-1,toenail-fungus-questions,Toenail Fungus
-1,toenail-questions,Toenail
-1,tofu-questions,Tofu
-1,tomato-questions,Tomato
-1,tongue-questions,Tongue
-1,tonsil-questions,Tonsil
-1,tonsillectomy-questions,Tonsillectomy
-1,tonsillitis-questions,Tonsillitis
-1,tooth-abscess-questions,Tooth Abscess
-1,tooth-decay-questions,Tooth Decay
-1,tooth-questions,Tooth
-1,toothache-questions,Toothache
-1,torso-questions,Torso
-1,torticollis-questions,Torticollis
-1,toxic-epidermal-necrolysis-questions,Toxic Epidermal Necrolysis
-1,toxic-shock-syndrome-questions,Toxic Shock Syndrome
-1,trachea-questions,Trachea
-1,tracheotomy-questions,Tracheotomy
-1,transcutaneous-electric-nerve-stimulation-questions,Transcutaneous Electric Nerve Stimulation
-1,transfusion-questions,Transfusion
-1,transient-ischemia-attack-questions,Transient Ischemia Attack
-1,transplant-questions,Transplant
-1,transvaginal-ultrasound-questions,Transvaginal Ultrasound
-1,trauma-questions,Trauma
-1,travel-questions,Travel
-1,travelers-diarrhea-questions,Traveler's Diarrhea
-1,treadmill-questions,Treadmill
-1,tremor-questions,Tremor
-1,trench-foot-questions,Trench Foot
-1,trichinosis-questions,Trichinosis
-1,trichomoniasis-questions,Trichomoniasis
-1,trichotillomania-questions,Trichotillomania
-1,tricuspid-regurgitation-questions,Tricuspid Regurgitation
-1,trigeminal-neuralgia-questions,Trigeminal Neuralgia
-1,trigger-finger-questions,Trigger Finger
-1,triglyceride-questions,Triglyceride
-1,tryptophan-questions,Tryptophan
-1,tubal-ligation-questions,Tubal Ligation
-1,tubal-reversal-questions,Tubal Reversal
-1,tuberculosis-questions,Tuberculosis
-1,tumor-questions,Tumor
-1,tuna-questions,Tuna
-1,turkey-questions,Turkey
-1,type-1-diabetes-questions,Type 1 Diabetes
-1,type-2-diabetes-questions,Type 2 Diabetes
-1,typhoid-questions,Typhoid
-1,typhoid-vaccine-questions,Typhoid Vaccine
-1,typhus-questions,Typhus
-1,ulcer-questions,Ulcer
-1,ulcerative-colitis-questions,Ulcerative Colitis
-1,ultrasonography-questions,Ultrasonography
-1,ultrasound-questions,Ultrasound
-1,underactive-thyroid-questions,Underactive Thyroid
-1,undescended-testicle-questions,Undescended Testicle
-1,unstable-angina-questions,Unstable Angina
-1,urea-questions,Urea
-1,urethra-questions,Urethra
-1,urethral-stricture-questions,Urethral Stricture
-1,urethritis-questions,Urethritis
-1,uric-acid-questions,Uric Acid
-1,urinalysis-questions,Urinalysis
-1,urinary-incontinence-questions,Urinary Incontinence
-1,urinary-tract-infection-questions,Urinary Tract Infection
-1,urinary-tract-questions,Urinary Tract
-1,urination-questions,Urination
-1,urodynamic-test-questions,Urodynamic Test
-1,urostomy-questions,Urostomy
-1,utah-questions,Utah
-1,uterine-cancer-questions,Uterine Cancer
-1,uterine-fibroid-questions,Uterine Fibroid
-1,uterine-fibroids-questions,Uterine Fibroids
-1,uterine-prolapse-questions,Uterine Prolapse
-1,uterus-questions,Uterus
-1,vaccination-questions,Vaccination
-1,vaccines-questions,Vaccines
-1,vagina-questions,Vagina
-1,vaginal-discharge-questions,Vaginal Discharge
-1,vaginal-hysterectomy-questions,Vaginal Hysterectomy
-1,vaginal-yeast-infection-questions,Vaginal Yeast Infection
-1,vaginismus-questions,Vaginismus
-1,vaginitis-questions,Vaginitis
-1,valley-fever-questions,Valley Fever
-1,varicocele-questions,Varicocele
-1,varicose-vein-questions,Varicose Vein
-1,vascular-dementia-questions,Vascular Dementia
-1,vascular-ring-questions,Vascular Ring
-1,vasculitis-questions,Vasculitis
-1,vasectomy-questions,Vasectomy
-1,vasovagal-episode-questions,Vasovagal Episode
-1,vegetable-questions,Vegetable
-1,vein-questions,Vein
-1,venous-insufficiency-questions,Venous Insufficiency
-1,ventricle-questions,Ventricle
-1,ventricular-tachycardia-questions,Ventricular Tachycardia
-1,vertebra-questions,Vertebra
-1,vertigo-questions,Vertigo
-1,vinegar-questions,Vinegar
-1,viral-pneumonia-questions,Viral Pneumonia
-1,virginia-questions,Virginia
-1,virus-questions,Virus
-1,vision-problems-questions,Vision Problems
-1,vision-questions,Vision
-1,vitamin-a-questions,Vitamin A
-1,vitamin-c-questions,Vitamin C
-1,vitamin-d-deficiency-questions,Vitamin D Deficiency
-1,vitamin-d-questions,Vitamin D
-1,vitamin-e-questions,Vitamin E
-1,vitamin-k-questions,Vitamin K
-1,vitamin-questions,Vitamin
-1,vitiligo-questions,Vitiligo
-1,vocal-cord-questions,Vocal Cord
-1,vomit-questions,Vomit
-1,vomiting-blood-questions,Vomiting Blood
-1,vulvar-cancer-questions,Vulvar Cancer
-1,waist-questions,Waist
-1,walking-questions,Walking
-1,walnut-questions,Walnut
-1,wart-questions,Wart
-1,watermelon-questions,Watermelon
-1,watery-eyes-questions,Watery Eyes
-1,weakness-questions,Weakness
-1,weight-gain-questions,Weight Gain
-1,weight-loss-pill-questions,Weight Loss Pill
-1,weight-loss-questions,Weight Loss
-1,weight-questions,Weight
-1,welt-questions,Welt
-1,west-nile-virus-questions,West Nile Virus
-1,western-blot-test-questions,Western Blot Test
-1,wheat-bran-questions,Wheat Bran
-1,wheat-questions,Wheat
-1,whiplash-questions,Whiplash
-1,whitehead-questions,Whitehead
-1,whole-wheat-questions,Whole Wheat
-1,whooping-cough-questions,Whooping Cough
-1,wine-questions,Wine
-1,wisdom-tooth-questions,Wisdom Tooth
-1,wool-questions,Wool
-1,workout-questions,Workout
-1,worm-questions,Worm
-1,wound-care-questions,Wound Care
-1,wound-questions,Wound
-1,wrinkle-questions,Wrinkle
-1,wrist-pain-questions,Wrist Pain
-1,wrist-questions,Wrist
-1,wyoming-questions,Wyoming
-1,x-ray-questions,X-ray
-1,yam-questions,Yam
-1,yeast-infection-questions,Yeast Infection
-1,yeast-questions,Yeast
-1,yellow-fever-questions,Yellow Fever
-1,yoga-questions,Yoga
-1,yogurt-questions,Yogurt
-1,zinc-oxide-questions,Zinc Oxide
-1,zinc-questions,Zinc
-1,zucchini-questions,Zucchini
+topicId,topicName
+abdominal-hernia-questions,Abdominal Hernia
+abdominal-muscles-questions,Abdominal Muscles
+abdominal-obesity-questions,Abdominal Obesity
+abdominal-pain-questions,Abdominal Pain
+abdominal-surgery-questions,Abdominal Surgery
+ablation-questions,Ablation
+abortion-questions,Abortion
+abscess-questions,Abscess
+abstinence-questions,Abstinence
+aca,ACA
+ace-inhibitor-questions,Ace Inhibitor
+acetaminophen-questions,Acetaminophen
+acetone-questions,Acetone
+achilles-tendon-questions,Achilles Tendon
+acne-questions,Acne
+actinic-keratosis-questions,Actinic Keratosis
+acupuncture-questions,Acupuncture
+acute-bronchitis-questions,Acute Bronchitis
+acute-pancreatitis-questions,Acute Pancreatitis
+acute-respiratory-distress-syndrome-questions,Acute Respiratory Distress Syndrome
+acute-sinusitis-questions,Acute Sinusitis
+addiction-questions,Addiction
+adenoidectomy-questions,Adenoidectomy
+adenoma-questions,Adenoma
+adenomyosis-questions,Adenomyosis
+adolescent-questions,Adolescent
+adrenal-gland-questions,Adrenal Gland
+adrenal-tumor-questions,Adrenal Tumor
+adult-acne-questions,Adult Acne
+affordable-care-act,Affordable Care Act
+aggression-questions,Aggression
+aggressive-behavior-questions,Aggressive Behavior
+aging-questions,Aging
+aids-questions,AIDS
+air-quality-questions,Air Quality
+alabama-questions,Alabama
+albinism-questions,Albinism
+alcohol-abuse-questions,Alcohol Abuse
+alcohol-withdrawal-questions,Alcohol Withdrawal
+alcoholic-beverage-questions,Alcoholic Beverage
+alcoholism-questions,Alcoholism
+allergic-asthma-questions,Allergic Asthma
+allergic-conjunctivitis-questions,Allergic Conjunctivitis
+allergic-reaction-questions,Allergic Reaction
+allergy-questions,Allergy
+almond-questions,Almond
+aloe-questions,Aloe
+aloe-vera-questions,Aloe Vera
+alopecia-questions,Alopecia
+alternative-medicine-questions,Alternative Medicine
+alzheimers-disease-questions,Alzheimer's Disease
+amino-acids-questions,Amino Acids
+ammonia-questions,Ammonia
+amnesia-questions,Amnesia
+amoxicillin-questions,Amoxicillin
+amputation-questions,Amputation
+amyloidosis-questions,Amyloidosis
+amyotrophic-lateral-sclerosis-questions,Amyotrophic Lateral Sclerosis
+ana-test-questions,ANA Test
+anal-abscess-questions,Anal Abscess
+anal-cancer-questions,Anal Cancer
+anal-fissure-questions,Anal Fissure
+anal-wart-questions,Anal Wart
+anaphylactic-shock-questions,Anaphylactic Shock
+anaphylaxis-questions,Anaphylaxis
+anastomosis-questions,Anastomosis
+anatomy-questions,Anatomy
+anemia-questions,Anemia
+anesthesia-questions,Anesthesia
+aneurysm-questions,Aneurysm
+anger-management-questions,Anger Management
+anger-questions,Anger
+angina-questions,Angina
+angiogram-questions,Angiogram
+angioplasty-questions,Angioplasty
+ankle-pain-questions,Ankle Pain
+ankle-questions,Ankle
+anorexia-questions,Anorexia
+anterior-cruciate-ligament-injury-questions,Anterior Cruciate Ligament Injury
+anti-aging-questions,Anti-Aging
+anti-inflammatory-questions,Anti-Inflammatory
+antibiotic-questions,Antibiotic
+antibiotic-use-questions,Antibiotic Use
+antidepressant-questions,Antidepressant
+anus-questions,Anus
+anxiety-questions,Anxiety
+aorta-questions,Aorta
+aortic-aneurysm-questions,Aortic Aneurysm
+aortic-dissection-questions,Aortic Dissection
+aortic-stenosis-questions,Aortic Stenosis
+apathy-questions,Apathy
+apnea-questions,Apnea
+appendectomy-questions,Appendectomy
+appendicitis-questions,Appendicitis
+appendix-questions,Appendix
+arm-questions,Arm
+armpit-questions,Armpit
+arrhythmia-questions,Arrhythmia
+arrhythmias-questions,Arrhythmias
+artery-questions,Artery
+arthritis-questions,Arthritis
+arthropathy-questions,Arthropathy
+arthroscopy-questions,Arthroscopy
+artificial-insemination-questions,Artificial Insemination
+asbestosis-questions,Asbestosis
+aspiration-questions,Aspiration
+aspirin-questions,Aspirin
+asthma-attack-questions,Asthma Attack
+asthma-questions,Asthma
+astigmatism-questions,Astigmatism
+ataxia-questions,Ataxia
+atherosclerosis-questions,Atherosclerosis
+athletes-foot-questions,Athlete's Foot
+atopic-dermatitis-questions,Atopic Dermatitis
+atrial-fibrillation-questions,Atrial Fibrillation
+atrial-flutter-questions,Atrial Flutter
+atrophic-vaginitis-questions,Atrophic Vaginitis
+atrophy-questions,Atrophy
+attention-deficit-hyperactivity-disorder-questions,Attention Deficit Hyperactivity Disorder
+auscultation-questions,Auscultation
+autism-questions,Autism
+autoimmune-disease-questions,Autoimmune Disease
+autoimmune-disorder-questions,Autoimmune Disorder
+autoimmune-hepatitis-questions,Autoimmune Hepatitis
+b-complex-vitamins-questions,B Complex Vitamins
+b12-questions,B12
+baby-bottle-tooth-decay-questions,Baby Bottle Tooth Decay
+baby-questions,Baby
+bacitracin-questions,Bacitracin
+back-pain-questions,Back Pain
+bacterial-meningitis-questions,Bacterial Meningitis
+bacterial-pneumonia-questions,Bacterial Pneumonia
+bacterial-sexually-transmitted-disease-questions,Bacterial Sexually Transmitted Disease
+bacterial-vaginosis-questions,Bacterial Vaginosis
+bacterium-questions,Bacterium
+bad-breath-questions,Bad Breath
+balanitis-questions,Balanitis
+baldness-questions,Baldness
+barium-swallow-questions,Barium Swallow
+bartholin-cyst-questions,Bartholin Cyst
+basal-body-temperature-questions,Basal Body Temperature
+basal-cell-carcinoma-questions,Basal Cell Carcinoma
+bed-sore-questions,Bed Sore
+bedbug-questions,Bedbug
+bee-pollen-questions,Bee Pollen
+bee-sting-questions,Bee Sting
+belch-questions,Belch
+bells-palsy-questions,Bell's Palsy
+belly-button-questions,Belly Button
+benign-paroxysmal-positional-vertigo-questions,Benign Paroxysmal Positional Vertigo
+benign-prostatic-hyperplasia-questions,Benign Prostatic Hyperplasia
+benign-questions,Benign
+benzoyl-peroxide-questions,Benzoyl Peroxide
+beta-blocker-questions,Beta Blocker
+beta-carotene-questions,Beta Carotene
+beta-thalassemia-questions,Beta Thalassemia
+beverages-questions,Beverages
+bi-pap-questions,Bi-Pap
+bicep-questions,Bicep
+big-toe-questions,Big Toe
+binge-drinking-questions,Binge Drinking
+biofeedback-questions,Biofeedback
+bioidentical-hormone-questions,Bioidentical Hormone
+biopsy-questions,Biopsy
+bipolar-disorder-questions,Bipolar Disorder
+birth-control-pill-questions,Birth Control Pill
+birth-control-questions,Birth Control
+birth-defect-questions,Birth Defect
+birth-questions,Birth
+birthmark-questions,Birthmark
+black-eye-questions,Black Eye
+bladder-cancer-questions,Bladder Cancer
+bladder-questions,Bladder
+bladder-repair-questions,Bladder Repair
+bladder-spasm-questions,Bladder Spasm
+bladder-stone-questions,Bladder Stone
+blepharitis-questions,Blepharitis
+blind-loop-syndrome-questions,Blind Loop Syndrome
+blindness-questions,Blindness
+blinking-questions,Blinking
+blister-questions,Blister
+bloating-questions,Bloating
+blood-clot-questions,Blood Clot
+blood-disorder-questions,Blood Disorder
+blood-donation-questions,Blood Donation
+blood-in-urine-questions,Blood In Urine
+blood-loss-questions,Blood Loss
+blood-pressure-questions,Blood Pressure
+blood-sugar-questions,Blood Sugar
+blood-test-questions,Blood Test
+blood-thinner-questions,Blood Thinner
+bloodshot-eye-questions,Bloodshot Eye
+bmp-blood-test-questions,Bmp Blood Test
+body-building-questions,Body Building
+body-mass-index-questions,Body Mass Index
+boil-questions,Boil
+bone-cancer-questions,Bone Cancer
+bone-density-test-questions,Bone Density Test
+bone-marrow-questions,Bone Marrow
+bone-spurs-questions,Bone Spurs
+borderline-personality-disorder-questions,Borderline Personality Disorder
+bow-leg-questions,Bow Leg
+bowel-incontinence-questions,Bowel Incontinence
+bowel-movement-questions,Bowel Movement
+bradycardia-questions,Bradycardia
+brain-aneurysm-questions,Brain Aneurysm
+brain-cancer-questions,Brain Cancer
+brain-hemorrhage-questions,Brain Hemorrhage
+brain-questions,Brain
+brain-tumor-questions,Brain Tumor
+breast-augmentation-questions,Breast Augmentation
+breast-biopsy-questions,Breast Biopsy
+breast-cancer-questions,Breast Cancer
+breast-enlargement-questions,Breast Enlargement
+breast-fibroadenoma-questions,Breast Fibroadenoma
+breast-pump-questions,Breast Pump
+breast-questions,Breast
+breast-self-exam-questions,Breast Self Exam
+breastfeed-questions,Breastfeed
+broken-arm-questions,Broken Arm
+broken-bone-questions,Broken Bone
+broken-finger-questions,Broken Finger
+broken-foot-questions,Broken Foot
+broken-leg-questions,Broken Leg
+broken-shoulder-questions,Broken Shoulder
+broken-toe-questions,Broken Toe
+broken-tooth-questions,Broken Tooth
+bronchiolitis-questions,Bronchiolitis
+bronchitis-questions,Bronchitis
+brown-rice-questions,Brown Rice
+bruise-questions,Bruise
+bruxism-questions,Bruxism
+bulging-disc-questions,Bulging Disc
+bulimia-nervosa-questions,Bulimia Nervosa
+bundle-nerve-branch-block-questions,Bundle Nerve Branch Block
+bunion-questions,Bunion
+burn-questions,Burn
+bursitis-questions,Bursitis
+buttocks-questions,Buttocks
+caffeine-questions,Caffeine
+calamine-questions,Calamine
+calcium-channel-blocker-questions,Calcium Channel Blocker
+calcium-questions,Calcium
+calf-questions,Calf
+california-questions,California
+callus-questions,Callus
+calorie-questions,Calorie
+cancer-questions,Cancer
+candidiasis-questions,Candidiasis
+canker-sore-questions,Canker Sore
+canola-questions,Canola
+car-sickness-questions,Car Sickness
+carbohydrate-questions,Carbohydrate
+carbon-dioxide-questions,Carbon Dioxide
+carcinoma-questions,Carcinoma
+cardiac-arrest-questions,Cardiac Arrest
+cardiac-catheterization-questions,Cardiac Catheterization
+cardiomyopathy-questions,Cardiomyopathy
+cardiovascular-disease-questions,Cardiovascular Disease
+cardiovascular-sys-questions,Cardiovascular Sys.
+cardioversion-questions,Cardioversion
+care-giver-questions,Care Giver
+carotid-artery-questions,Carotid Artery
+carpal-questions,Carpal
+carpal-tunnel-syndrome-questions,Carpal Tunnel Syndrome
+carrot-questions,Carrot
+cartilage-questions,Cartilage
+castor-oil-questions,Castor Oil
+castration-questions,Castration
+cat-scan-questions,CAT Scan
+cat-scratch-disease-questions,Cat Scratch Disease
+cataract-questions,Cataract
+cataract-surgery-questions,Cataract Surgery
+caterpillar-questions,Caterpillar
+catheter-questions,Catheter
+catheterization-questions,Catheterization
+cats-questions,Cats
+cauliflower-ear-questions,Cauliflower Ear
+cavity-questions,Cavity
+celiac-disease-questions,Celiac Disease
+cellulite-questions,Cellulite
+cellulitis-questions,Cellulitis
+cellulose-questions,Cellulose
+central-nervous-system-questions,Central Nervous System
+cephalexin-questions,Cephalexin
+cereal-questions,Cereal
+cerebral-palsy-questions,Cerebral Palsy
+cervical-biopsy-questions,Cervical Biopsy
+cervical-cancer-questions,Cervical Cancer
+cervical-conization-questions,Cervical Conization
+cervical-disk-questions,Cervical Disk
+cervical-mucus-questions,Cervical Mucus
+cervical-spinal-stenosis-questions,Cervical Spinal Stenosis
+cervical-spine-questions,Cervical Spine
+cervix-questions,Cervix
+cesarean-section-questions,Cesarean Section
+chai-questions,Chai
+chalazion-questions,Chalazion
+chancroid-questions,Chancroid
+charcot-marie-tooth-disease-questions,Charcot-Marie-Tooth Disease
+cheekbones-questions,Cheekbones
+chemical-pneumonia-questions,Chemical Pneumonia
+chemotherapy-questions,Chemotherapy
+cherry-angioma-questions,Cherry Angioma
+chest-questions,Chest
+chiari-malformation-questions,Chiari Malformation
+chickenpox-questions,Chickenpox
+chigger-questions,Chigger
+child-abuse-questions,Child Abuse
+childhood-obesity-questions,Childhood Obesity
+chlamydia-questions,Chlamydia
+chloride-questions,Chloride
+choking-questions,Choking
+cholecystectomy-questions,Cholecystectomy
+cholera-questions,Cholera
+cholesteatoma-questions,Cholesteatoma
+cholesterol-questions,Cholesterol
+chondromalacia-patella-questions,Chondromalacia Patella
+chronic-fatigue-syndrome-questions,Chronic Fatigue Syndrome
+chronic-obstructive-pulmonary-disease-questions,Chronic Obstructive Pulmonary Disease
+chronic-pain-questions,Chronic Pain
+circulation-questions,Circulation
+circumcision-questions,Circumcision
+cirrhosis-questions,Cirrhosis
+ck-questions,CK
+clavicle-questions,Clavicle
+clitoris-questions,Clitoris
+closed-head-injury-questions,Closed Head Injury
+cluster-headache-questions,Cluster Headache
+cocaine-questions,Cocaine
+coccydynia-questions,Coccydynia
+cocoa-questions,Cocoa
+coconut-oil-questions,Coconut Oil
+coffee-questions,Coffee
+cold-cream-questions,Cold Cream
+cold-questions,Cold
+cold-sore-questions,Cold Sore
+coldness-questions,Coldness
+colectomy-questions,Colectomy
+colic-questions,Colic
+colitis-questions,Colitis
+collagen-questions,Collagen
+collapsed-lung-questions,Collapsed Lung
+collarbone-questions,Collarbone
+colloid-cyst-questions,Colloid Cyst
+colon-cancer-questions,Colon Cancer
+colon-questions,Colon
+colon-resection-questions,Colon Resection
+colonoscopy-questions,Colonoscopy
+colorado-questions,Colorado
+colostomy-questions,Colostomy
+colposcopy-questions,Colposcopy
+coma-questions,Coma
+complete-blood-count-questions,Complete Blood Count
+complex-regional-pain-syndrome-questions,Complex Regional Pain Syndrome
+compulsive-eater-questions,Compulsive Eater
+concentration-questions,Concentration
+conception-questions,Conception
+concussion-questions,Concussion
+condom-questions,Condom
+confusion-questions,Confusion
+congestive-heart-failure-questions,Congestive Heart Failure
+connecticut-questions,Connecticut
+connective-tissue-disease-questions,Connective Tissue Disease
+consciousness-questions,Consciousness
+constipation-questions,Constipation
+constriction-questions,Constriction
+consumption-questions,Consumption
+contact-dermatitis-questions,Contact Dermatitis
+contusion-questions,Contusion
+conversion-disorder-questions,Conversion Disorder
+cooking-questions,Cooking
+corn-oil-questions,Corn Oil
+cornea-questions,Cornea
+corneal-abrasion-questions,Corneal Abrasion
+coronary-angioplasty-questions,Coronary Angioplasty
+coronary-artery-bypass-questions,Coronary Artery Bypass
+coronary-disease-questions,Coronary Disease
+corpectomy-questions,Corpectomy
+corpulence-questions,Corpulence
+cortisol-questions,Cortisol
+cortisone-questions,Cortisone
+cosmetic-procedures-questions,Cosmetic Procedures
+cosmetic-surgery-questions,Cosmetic Surgery
+cough-questions,Cough
+coughing-up-blood-questions,Coughing Up Blood
+cpap-questions,CPAP
+cradle-cap-questions,Cradle Cap
+cramps-questions,Cramps
+cranberry-questions,Cranberry
+craniotomy-questions,Craniotomy
+craving-questions,Craving
+creatinine-questions,Creatinine
+crohns-disease-questions,Crohn's Disease
+croup-questions,Croup
+crying-questions,Crying
+cubital-tunnel-syndrome-questions,Cubital Tunnel Syndrome
+cuts-questions,Cuts
+cyst-questions,Cyst
+cystic-acne-questions,Cystic Acne
+cystic-fibrosis-questions,Cystic Fibrosis
+cystoscopy-questions,Cystoscopy
+dairy-product-questions,Dairy Product
+dairy-questions,Dairy
+dark-chocolate-questions,Dark Chocolate
+decompression-sickness-questions,Decompression Sickness
+deep-vein-thrombosis-questions,Deep Vein Thrombosis
+deformity-questions,Deformity
+degenerative-disc-disease-questions,Degenerative Disc Disease
+dehydration-questions,Dehydration
+delayed-ejaculation-questions,Delayed Ejaculation
+delirium-questions,Delirium
+delusions-questions,Delusions
+dementia-questions,Dementia
+dental-abscess-questions,Dental Abscess
+dental-injury-questions,Dental Injury
+dental-questions,Dental
+depo-provera-questions,Depo-Provera
+depression-questions,Depression
+dermabrasion-questions,Dermabrasion
+dermatitis-questions,Dermatitis
+dessert-questions,Dessert
+detached-retina-questions,Detached Retina
+developmental-delay-questions,Developmental Delay
+deviated-septum-questions,Deviated Septum
+diabetes-questions,Diabetes
+diabetic-coma-questions,Diabetic Coma
+diabetic-neuropathy-questions,Diabetic Neuropathy
+dialysis-questions,Dialysis
+diaper-rash-questions,Diaper Rash
+diaphragm-questions,Diaphragm
+diarrhea-questions,Diarrhea
+diet-pills-questions,Diet Pills
+diet-questions,Diet
+digestive-system-questions,Digestive System
+dilated-cardiomyopathy-questions,Dilated Cardiomyopathy
+disc-herniation-questions,Disc Herniation
+dislocation-questions,Dislocation
+disorientation-questions,Disorientation
+diverticulitis-questions,Diverticulitis
+diverticulosis-questions,Diverticulosis
+dizziness-questions,Dizziness
+dna-test-questions,DNA Test
+dog-questions,Dog
+domestic-violence-questions,Domestic Violence
+dopamine-questions,Dopamine
+double-vision-questions,Double Vision
+dourine-questions,Dourine
+down-syndrome-questions,Down Syndrome
+drainage-questions,Drainage
+drinking-questions,Drinking
+drool-questions,Drool
+drowning-questions,Drowning
+drowsiness-questions,Drowsiness
+drug-abuse-questions,Drug Abuse
+drug-eruption-questions,Drug Eruption
+drug-overdose-questions,Drug Overdose
+drug-questions,Drug
+drug-test-questions,Drug Test
+dry-macular-degeneration-questions,Dry Macular Degeneration
+dry-mouth-questions,Dry Mouth
+dry-skin-questions,Dry Skin
+dry-socket-questions,Dry Socket
+duodenitis-questions,Duodenitis
+dysentery-questions,Dysentery
+dyshidrotic-eczema-questions,Dyshidrotic Eczema
+dyslexia-questions,Dyslexia
+dyslipidemia-questions,Dyslipidemia
+dysphonia-questions,Dysphonia
+dysplasia-questions,Dysplasia
+dyspnea-questions,Dyspnea
+e-coli-questions,E. Coli
+ear-canal-questions,Ear Canal
+ear-drum-questions,Ear Drum
+ear-infection-questions,Ear Infection
+eardrum-questions,Eardrum
+ears-questions,Ears
+earwax-blockage-questions,Earwax Blockage
+easily-distracted-questions,Easily Distracted
+eating-disorder-questions,Eating Disorder
+ebola-hemorrhagic-fever-questions,Ebola Hemorrhagic Fever
+echocardiogram-questions,Echocardiogram
+ectopic-pregnancy-questions,Ectopic Pregnancy
+edema-questions,Edema
+egg-white-cervical-mucus-questions,Egg White Cervical Mucus
+egg-whites-questions,Egg Whites
+egg-yolks-questions,Egg Yolks
+ehlers-danlos-syndrome-questions,Ehlers-Danlos Syndrome
+ejaculation-questions,Ejaculation
+elbow-questions,Elbow
+electric-shock-questions,Electric Shock
+electrocardiogram-questions,Electrocardiogram
+electroconvulsive-therapy-questions,Electroconvulsive Therapy
+electrocution-questions,Electrocution
+electroencephalogram-questions,Electroencephalogram
+electrogastrogram-questions,Electrogastrogram
+electrolyte-questions,Electrolyte
+emaciation-questions,Emaciation
+embolism-questions,Embolism
+emergency-room-questions,Emergency Room
+emg-questions,Electromyography
+emphysema-questions,Emphysema
+encephalitis-questions,Encephalitis
+encephalopathy-questions,Encephalopathy
+endometrial-ablation-questions,Endometrial Ablation
+endometrial-cancer-questions,Endometrial Cancer
+endometriosis-questions,Endometriosis
+endometrium-questions,Endometrium
+endoscopy-questions,Endoscopy
+enema-questions,Enema
+enlarged-heart-questions,Enlarged Heart
+eosinophilic-esophagitis-questions,Eosinophilic Esophagitis
+epidermal-cyst-questions,Epidermal Cyst
+epididymitis-questions,Epididymitis
+epidural-questions,Epidural
+epiglottitis-questions,Epiglottitis
+epilepsy-questions,Epilepsy
+epinephrine-questions,Epinephrine
+epistaxis-questions,Epistaxis
+erectile-dysfunction-questions,Erectile Dysfunction
+erection-questions,Erection
+erosion-questions,Erosion
+erythema-nodosum-questions,Erythema Nodosum
+erythema-questions,Erythema
+esophageal-spasm-questions,Esophageal Spasm
+esophagitis-questions,Esophagitis
+esophagogastroduodenoscopy-questions,Esophagogastroduodenoscopy
+esophagus-questions,Esophagus
+essential-hypertension-questions,Essential Hypertension
+essential-tremor-questions,Essential Tremor
+estrogen-questions,Estrogen
+eustachian-tube-dysfunction-questions,Eustachian Tube Dysfunction
+exercise-questions,Exercise
+exercise-stress-test-questions,Exercise Stress Test
+exposure-questions,Exposure
+eye-allergy-questions,Eye Allergy
+eye-socket-questions,Eye Socket
+eyeball-questions,Eyeball
+eyebrow-questions,Eyebrow
+eyelid-questions,Eyelid
+eyes-questions,Eyes
+facial-nerve-questions,Facial Nerve
+facial-paralysis-questions,Facial Paralysis
+failure-to-thrive-questions,Failure To Thrive
+fainting-questions,Fainting
+fallopian-tube-questions,Fallopian Tube
+familial-combined-hyperlipidemia-questions,Familial Combined Hyperlipidemia
+family-questions,Family
+fasciitis-questions,Fasciitis
+fasciotomy-questions,Fasciotomy
+fast-food-questions,Fast Food
+fatigue-questions,Fatigue
+fatty-liver-disease-questions,Fatty Liver Disease
+fear-questions,Fear
+fecal-incontinence-questions,Fecal Incontinence
+feeding-questions,Feeding
+femur-questions,Femur
+fertility-questions,Fertility
+feta-cheese-questions,Feta Cheese
+fetal-alcohol-syndrome-questions,Fetal Alcohol Syndrome
+fetus-questions,Fetus
+fever-blister-questions,Fever Blister
+fever-questions,Fever
+fiber-questions,Fiber
+fibromyalgia-questions,Fibromyalgia
+fibrosis-questions,Fibrosis
+fifth-disease-questions,Fifth Disease
+fig-questions,Fig
+fine-needle-aspiration-questions,Fine Needle Aspiration
+finger-questions,Finger
+fingernail-questions,Fingernail
+first-aid-questions,First Aid
+first-trimester-questions,First Trimester
+fish-questions,Fish
+fissure-questions,Fissure
+fistula-questions,Fistula
+fitness-questions,Fitness
+flashback-questions,Flashback
+flat-feet-questions,Flat Feet
+flatulence-questions,Flatulence
+flax-questions,flax
+flaxseed-oil-questions,flaxseed oil
+flaxseed-questions,flaxseed
+florida-questions,Florida
+flour-questions,Flour
+flu-questions,Flu
+fluoride-questions,Fluoride
+fluoroscopy-questions,Fluoroscopy
+folic-acid-questions,Folic Acid
+folliculitis-questions,Folliculitis
+food-allergy-questions,Food Allergy
+food-poisoning-questions,Food Poisoning
+food-questions,Food
+foot-questions,Foot
+forearm-questions,Forearm
+forehead-questions,Forehead
+foreskin-questions,Foreskin
+foreskin-restoration-questions,Foreskin Restoration
+forgetfulness-questions,Forgetfulness
+fracture-questions,Fracture
+freckle-questions,Freckle
+fried-chicken-questions,Fried Chicken
+frostbite-questions,Frostbite
+frozen-yogurt-questions,Frozen Yogurt
+fruit-questions,Fruit
+fudge-questions,Fudge
+furuncle-questions,Furuncle
+fuzziness-questions,Fuzziness
+gallbladder-cancer-questions,Gallbladder Cancer
+gallbladder-disease-questions,Gallbladder Disease
+gallbladder-questions,Gallbladder
+gallbladder-removal-questions,Gallbladder Removal
+gallstone-questions,Gallstone
+ganglion-cyst-questions,Ganglion Cyst
+ganglion-questions,Ganglion
+garlic-questions,Garlic
+gasoline-questions,Gasoline
+gastric-bypass-surgery-questions,Gastric Bypass Surgery
+gastritis-questions,Gastritis
+gastroenteritis-questions,Gastroenteritis
+gastroparesis-questions,Gastroparesis
+gender-questions,Gender
+general-anesthesia-questions,General Anesthesia
+generalized-epilepsy-questions,Generalized Epilepsy
+genetic-disorder-questions,Genetic Disorder
+genetic-testing-questions,Genetic Testing
+genital-herpes-questions,Genital Herpes
+genital-wart-questions,Genital Wart
+genitalia-questions,Genitalia
+geographic-tongue-questions,Geographic Tongue
+georgia-questions,Georgia
+gestational-diabetes-questions,Gestational Diabetes
+giddiness-questions,Giddiness
+ginger-questions,Ginger
+gingivitis-questions,Gingivitis
+ginkgo-biloba-questions,Ginkgo Biloba
+ginseng-questions,Ginseng
+glaucoma-questions,Glaucoma
+glycerin-questions,Glycerin
+goiter-questions,Goiter
+gonorrhea-questions,Gonorrhea
+gout-questions,Gout
+graft-questions,Graft
+grains-questions,Grains
+granuloma-annulare-questions,Granuloma Annulare
+grape-questions,Grape
+grapefruit-questions,Grapefruit
+graves-disease-questions,Graves Disease
+grayness-questions,Grayness
+grief-questions,Grief
+grip-questions,Grip
+growth-hormone-deficiency-questions,Growth Hormone Deficiency
+gum-disease-questions,Gum Disease
+gynecomastia-questions,Gynecomastia
+h-pylori-questions,H. Pylori
+hair-loss-questions,Hair Loss
+hair-questions,Hair
+hallucination-questions,Hallucination
+hamburger-questions,Hamburger
+hammertoe-questions,Hammertoe
+hamstring-questions,Hamstring
+hand-foot-and-mouth-disease-questions,Hand Foot And Mouth Disease
+hand-questions,Hand
+hand-surgery-questions,Hand Surgery
+hay-fever-questions,Hay Fever
+head-injury-questions,Head Injury
+head-lice-questions,Head Lice
+head-questions,Head
+headache-questions,Headache
+healing-questions,Healing
+health-food-questions,Health Food
+health-insurance,Health insurance
+health-insurance-exchange,Health Insurance Exchange
+health-insurance-marketplace,Health Insurance Marketplace
+healthy-eating-questions,Healthy Eating
+hearing-loss-questions,Hearing Loss
+hearing-test-questions,Hearing Test
+heart-aneurysm-questions,Heart Aneurysm
+heart-attack-questions,Heart Attack
+heart-block-questions,Heart Block
+heart-disease-questions,Heart Disease
+heart-murmur-questions,Heart Murmur
+heart-questions,Heart
+heart-rhythm-disorder-questions,Heart Rhythm Disorder
+heart-surgery-questions,Heart Surgery
+heart-valve-questions,Heart Valve
+heartburn-questions,Heartburn
+heat-exhaustion-questions,Heat Exhaustion
+heat-intolerance-questions,Heat Intolerance
+heat-rash-questions,Heat Rash
+heat-stroke-questions,Heat Stroke
+heel-questions,Heel
+heel-spur-questions,Heel Spur
+height-questions,Height
+hemangioma-questions,Hemangioma
+hematoma-questions,Hematoma
+hematospermia-questions,Hematospermia
+hemmorhoid-questions,Hemmorhoid
+hemochromatosis-questions,Hemochromatosis
+hemoglobin-questions,Hemoglobin
+hemorrhoid-questions,Hemorrhoid
+hemorrhoidectomy-questions,Hemorrhoidectomy
+henoch-schonlein-purpura-questions,Henoch-Schonlein Purpura
+hepatitis-a-questions,Hepatitis A
+hepatitis-b-questions,Hepatitis B
+hepatitis-c-questions,Hepatitis C
+hepatitis-questions,Hepatitis
+hepatobiliary-iminodiacetic-acid-scan-questions,Hepatobiliary Iminodiacetic Acid Scan
+hepatocellular-carcinoma-questions,Hepatocellular Carcinoma
+herb-questions,Herb
+hernia-questions,Hernia
+hernia-repair-questions,Hernia Repair
+herniated-disc-questions,Herniated Disc
+herniated-disk-questions,Herniated Disk
+herpes-questions,Herpes
+herpes-simplex-questions,Herpes Simplex
+herpetic-whitlow-questions,Herpetic Whitlow
+hiatal-hernia-questions,Hiatal Hernia
+hiccup-questions,Hiccup
+high-blood-pressure-questions,High Blood Pressure
+high-cholesterol-questions,High Cholesterol
+high-fructose-corn-syrup-questions,High Fructose Corn Syrup
+high-protein-diet-questions,High Protein Diet
+high-risk-pregnancy-questions,High-Risk Pregnancy
+hike-questions,Hike
+hip-pain-questions,Hip Pain
+hip-replacement,Hip Replacement
+hirschsprungs-disease-questions,Hirschsprung's Disease
+hirsutism-questions,Hirsutism
+hissing-questions,Hissing
+histrionic-personality-disorder-questions,Histrionic Personality Disorder
+hiv-questions,HIV
+hiv-test-questions,HIV Test
+hives-questions,Hives
+hoarseness-questions,Hoarseness
+hodgkins-lymphoma-questions,Hodgkin's Lymphoma
+honey-questions,Honey
+hookworm-questions,Hookworm
+hormonal-therapy-questions,Hormonal Therapy
+hormone-imbalance-questions,Hormone Imbalance
+hormone-questions,Hormone
+hormone-replacement-therapy-questions,Hormone Replacement Therapy
+horners-syndrome-questions,Horner's Syndrome
+hot-dog-questions,Hot Dog
+hot-flash-questions,Hot Flash
+human-growth-hormone-questions,Human Growth Hormone
+human-papillomavirus-questions,Human Papillomavirus
+hunger-questions,Hunger
+hydrocele-questions,Hydrocele
+hydrocephalus-questions,Hydrocephalus
+hydrocodone-questions,Hydrocodone
+hydrocortisone-questions,Hydrocortisone
+hydrogen-peroxide-questions,Hydrogen Peroxide
+hydronephrosis-questions,Hydronephrosis
+hymen-questions,Hymen
+hyperactive-behavior-questions,Hyperactive Behavior
+hyperactivity-questions,Hyperactivity
+hyperglycemia-questions,Hyperglycemia
+hyperhidrosis-questions,Hyperhidrosis
+hyperkalemia-questions,Hyperkalemia
+hyperlipidemia-questions,Hyperlipidemia
+hyperpigmentation-questions,Hyperpigmentation
+hyperplasia-questions,Hyperplasia
+hypersensitivity-questions,Hypersensitivity
+hyperthermia-questions,Hyperthermia
+hyperthyroidism-questions,Hyperthyroidism
+hypertrophic-cardiomyopathy-questions,Hypertrophic Cardiomyopathy
+hyperventilation-questions,Hyperventilation
+hypoglycemia-questions,Hypoglycemia
+hypogonadism-questions,Hypogonadism
+hyponatremia-questions,Hyponatremia
+hypospadias-questions,Hypospadias
+hypothermia-questions,Hypothermia
+hypothyroidism-questions,Hypothyroidism
+hypoventilation-questions,Hypoventilation
+hysterectomy-questions,Hysterectomy
+ibuprofen-questions,Ibuprofen
+ice-cream-questions,Ice Cream
+ichthyosis-questions,Ichthyosis
+icing-questions,Icing
+ileostomy-questions,Ileostomy
+immune-system-questions,Immune System
+immunization-questions,Immunization
+immunodeficiency-questions,Immunodeficiency
+immunotherapy-questions,Immunotherapy
+impetigo-questions,Impetigo
+implant-radiation-questions,Implant Radiation
+impotence-questions,Impotence
+impulsiveness-questions,Impulsiveness
+in-vitro-fertilization-questions,In Vitro Fertilization
+incontinence-questions,Incontinence
+index-finger-questions,Index Finger
+indiana-questions,Indiana
+indigestion-questions,Indigestion
+infant-formula-questions,Infant Formula
+infant-questions,Infant
+infarction-questions,Infarction
+infection-questions,Infection
+infertility-questions,Infertility
+inflammation-questions,Inflammation
+inflammatory-bowel-disease-questions,Inflammatory Bowel Disease
+infusion-questions,Infusion
+ingrown-nail-questions,Ingrown Nail
+ingrown-toenail-questions,Ingrown Toenail
+inhaler-questions,Inhaler
+injection-questions,Injection
+injury-questions,Injury
+insect-bite-questions,Insect Bite
+insect-sting-questions,Insect Sting
+insomnia-questions,Insomnia
+instability-questions,Instability
+insulin-questions,Insulin
+insulin-resistance-questions,Insulin Resistance
+insurance-questions,Insurance
+internal-bleeding-questions,Internal Bleeding
+interstitial-cystitis-questions,Interstitial Cystitis
+intestine-questions,Intestine
+intrauterine-device-questions,Intrauterine Device
+intrauterine-insemination-questions,Intrauterine Insemination
+iodine-questions,Iodine
+iris-questions,Iris
+iron-deficiency-anemia-questions,Iron Deficiency Anemia
+iron-questions,Iron
+irregularity-questions,Irregularity
+irritability-questions,Irritability
+irritable-bowel-syndrome-questions,Irritable Bowel Syndrome
+ischemia-questions,Ischemia
+itch-questions,Itch
+jalapeno-questions,Jalapeno
+jaundice-questions,Jaundice
+jaw-questions,Jaw
+jelly-questions,Jelly
+jet-lag-questions,Jet Lag
+jock-itch-questions,Jock Itch
+juice-questions,Juice
+kale-questions,Kale
+keloid-questions,Keloid
+kentucky-questions,Kentucky
+keratoconus-questions,Keratoconus
+keratosis-pilaris-questions,Keratosis Pilaris
+kernel-questions,Kernel
+ketchup-questions,Ketchup
+ketogenic-diet-questions,Ketogenic Diet
+kidney-cancer-questions,Kidney Cancer
+kidney-disease-questions,Kidney Disease
+kidney-failure-questions,Kidney Failure
+kidney-infection-questions,Kidney Infection
+kidney-questions,Kidney
+kidney-stone-questions,Kidney Stone
+kiwi-questions,Kiwi
+klinefelters-syndrome-questions,Klinefelter's Syndrome
+knee-pain-questions,Knee Pain
+knee-questions,Knee
+knocked-out-tooth-questions,Knocked Out Tooth
+kyphosis-questions,Kyphosis
+labor-questions,Labor
+laboratory-test-questions,Laboratory Test
+lactase-questions,Lactase
+lactate-questions,Lactate
+lactic-acid-questions,Lactic Acid
+lactose-intolerance-questions,Lactose Intolerance
+lactose-questions,Lactose
+laminectomy-questions,Laminectomy
+laminotomy-questions,Laminotomy
+lap-band-surgery-questions,Lap-Band Surgery
+laparoscopic-surgery-questions,Laparoscopic Surgery
+laparoscopy-questions,Laparoscopy
+laparotomy-questions,Laparotomy
+large-intestine-questions,Large Intestine
+laryngitis-questions,Laryngitis
+larynx-questions,Larynx
+laser-therapy-questions,Laser Therapy
+lasik-questions,LASIK
+lazy-eye-questions,Lazy Eye
+learning-disability-questions,Learning Disability
+leep-questions,LEEP
+left-ventricular-hypertrophy-questions,Left Ventricular Hypertrophy
+leg-questions,Leg
+legg-calve-perthes-disease-questions,Legg-Calve-Perthes Disease
+lemon-questions,Lemon
+lens-questions,Lens
+lentil-questions,Lentil
+leprosy-questions,Leprosy
+lettuce-questions,Lettuce
+leukemia-questions,Leukemia
+leukoplakia-questions,Leukoplakia
+lh-level-questions,LH Level
+li-fraumeni-syndrome-questions,Li-Fraumeni Syndrome
+libido-questions,Libido
+lice-infestation-questions,Lice Infestation
+lice-questions,Lice
+ligament-questions,Ligament
+lightheadedness-questions,Lightheadedness
+limb-questions,Limb
+lime-questions,Lime
+lip-questions,Lip
+lipid-questions,Lipid
+liposuction-questions,Liposuction
+lithium-questions,Lithium
+lithotomy-questions,Lithotomy
+lithotripsy-questions,Lithotripsy
+little-finger-questions,Little Finger
+liver-function-test-questions,Liver Function Test
+liver-questions,Liver
+liver-spots-questions,Liver Spots
+lobectomy-questions,Lobectomy
+lobster-questions,Lobster
+lockjaw-questions,Lockjaw
+long-term-effect-questions,Long-Term Effect
+lotion-questions,Lotion
+louisiana-questions,Louisiana
+low-blood-pressure-questions,Low Blood Pressure
+low-carb-diet-questions,Low Carb Diet
+low-hemoglobin-level-questions,Low Hemoglobin Level
+low-red-blood-cell-count-questions,Low Red Blood Cell Count
+low-self-esteem-questions,Low Self-Esteem
+lower-jaw-questions,Lower Jaw
+lubricants-questions,Lubricants
+lumbar-puncture-questions,Lumbar Puncture
+lumbar-spinal-stenosis-questions,Lumbar Spinal Stenosis
+lump-questions,Lump
+lumpectomy-questions,Lumpectomy
+lung-cancer-questions,Lung Cancer
+lung-disease-questions,Lung Disease
+lung-questions,Lung
+lupus-questions,Lupus
+luteinizing-hormone-questions,Luteinizing Hormone
+lyme-disease-questions,Lyme Disease
+lymph-node-questions,Lymph Node
+lymphedema-questions,Lymphedema
+lymphoma-questions,Lymphoma
+macadamia-questions,Macadamia
+macular-degeneration-questions,Macular Degeneration
+magnesium-questions,Magnesium
+magnetic-resonance-imaging-questions,Magnetic Resonance Imaging
+makeup-questions,Makeup
+malaria-questions,Malaria
+male-pattern-baldness-questions,Male Pattern Baldness
+malnutrition-questions,Malnutrition
+mammogram-questions,Mammogram
+mango-questions,Mango
+mania-questions,Mania
+manic-depressive-questions,Manic Depressive
+maple-questions,Maple
+margarine-questions,Margarine
+marijuana-questions,Marijuana
+mashed-potato-questions,Mashed Potato
+massage-questions,Massage
+mastectomy-questions,Mastectomy
+mastoidectomy-questions,Mastoidectomy
+mastoiditis-questions,Mastoiditis
+masturbation-questions,Masturbation
+mayonnaise-questions,Mayonnaise
+meal-questions,Meal
+measles-questions,Measles
+meat-questions,Meat
+medicaid,Medicaid
+medicare-questions,Medicare
+meditation-questions,Meditation
+melanoma-questions,Melanoma
+melasma-questions,Melasma
+melatonin-questions,Melatonin
+memory-loss-questions,Memory Loss
+menieres-disease-questions,Meniere's Disease
+meningioma-questions,Meningioma
+meningitis-questions,Meningitis
+meningococcal-questions,Meningococcal
+meniscus-questions,Meniscus
+menopause-questions,Menopause
+menstrual-cramp-questions,Menstrual Cramp
+menstrual-questions,Menstrual
+mental-breakdown-questions,Mental Breakdown
+mental-health-questions,Mental Health
+mercury-poisoning-questions,Mercury Poisoning
+merkel-cell-carcinoma-questions,Merkel Cell Carcinoma
+mesothelioma-questions,Mesothelioma
+metabolic-syndrome-questions,Metabolic Syndrome
+metabolism-questions,Metabolism
+metamucil-questions,Metamucil
+metastasis-questions,Metastasis
+metatarsalgia-questions,Metatarsalgia
+methadone-questions,Methadone
+methicillin-resistant-staphylococcus-aureus-questions,methicillin resistant staphylococcus aureus
+michigan-questions,Michigan
+middle-ear-questions,Middle Ear
+migraine-questions,Migraine
+milk-questions,Milk
+mineral-oil-questions,Mineral Oil
+mineral-water-questions,Mineral Water
+mint-questions,Mint
+miscarriage-questions,Miscarriage
+mite-questions,Mite
+mitochondrial-myopathy-questions,Mitochondrial Myopathy
+mitral-valve-prolapse-questions,Mitral Valve Prolapse
+molar-questions,Molar
+mold-questions,Mold
+mole-questions,Mole
+molluscum-contagiosum-questions,Molluscum Contagiosum
+monoamine-oxidase-inhibitor-questions,Monoamine Oxidase Inhibitor
+mononucleosis-questions,Mononucleosis
+mood-swing-questions,Mood Swing
+morbid-obesity-questions,Morbid Obesity
+morning-after-pill-questions,Morning After Pill
+morning-sickness-questions,Morning Sickness
+morphine-questions,Morphine
+motion-sickness-questions,Motion Sickness
+motor-neuron-disease-questions,Motor Neuron Disease
+mouth-questions,Mouth
+mouth-ulcers-questions,Mouth Ulcers
+movement-questions,Movement
+mozzarella-questions,Mozzarella
+mucus-questions,Mucus
+multiple-sclerosis-questions,Multiple Sclerosis
+multivitamin-questions,Multivitamin
+multivitamins-questions,Multivitamins
+mumps-questions,Mumps
+muscle-questions,Muscle
+muscular-dystrophy-questions,Muscular Dystrophy
+mushroom-questions,Mushroom
+myasthenia-gravis-questions,Myasthenia Gravis
+myelogram-questions,Myelogram
+myeloma-questions,Myeloma
+myoclonus-questions,Myoclonus
+myomectomy-questions,Myomectomy
+myopathy-questions,Myopathy
+nafld-questions,NAFLD
+nail-fungus-questions,Nail Fungus
+nail-questions,Nail
+naproxen-questions,Naproxen
+narcolepsy-questions,Narcolepsy
+narcotic-questions,Narcotic
+nasal-spray-questions,Nasal Spray
+nash-questions,NASH
+nausea-questions,Nausea
+nebulization-questions,Nebulization
+neck-questions,Neck
+necrosis-questions,Necrosis
+nephrectomy-questions,Nephrectomy
+nerve-block-questions,Nerve Block
+nerve-questions,Nerve
+nervousness-questions,Nervousness
+neural-tube-defect-questions,Neural Tube Defect
+neuralgia-questions,Neuralgia
+neuritis-questions,Neuritis
+neurogenic-bladder-questions,Neurogenic Bladder
+neurological-disease-questions,Neurological Disease
+neuropathy-questions,Neuropathy
+newborn-jaundice-questions,Newborn Jaundice
+newborn-questions,Newborn
+newyork-questions,New York
+niacin-questions,Niacin
+nicotine-questions,Nicotine
+night-terror-questions,Night Terror
+nightmare-questions,Nightmare
+nipple-questions,Nipple
+nodule-questions,Nodule
+non-small-cell-lung-cancer-questions,Non-Small Cell Lung Cancer
+noodle-questions,Noodle
+northnarolina-questions,North Carolina
+nose-questions,Nose
+nostril-questions,Nostril
+nsaid-questions,Nsaid
+numbness-questions,Numbness
+nutrition-questions,Nutrition
+oatmeal-questions,Oatmeal
+obamacare,Obamacare
+obesity-questions,Obesity
+obsessive-compulsive-disorder-questions,Obsessive-Compulsive Disorder
+obstructive-sleep-apnea-questions,Obstructive Sleep Apnea
+occulta-questions,Occulta
+occupational-therapy-questions,Occupational Therapy
+ohio-questions,Ohio
+oil-questions,Oil
+okra-questions,Okra
+olive-questions,Olive
+omega-3-questions,Omega-3
+onion-questions,Onion
+open-heart-surgery-questions,Open Heart Surgery
+optic-nerve-questions,Optic Nerve
+oral-cancer-questions,Oral Cancer
+oral-glucose-tolerance-test-questions,Oral Glucose Tolerance Test
+oral-herpes-questions,Oral Herpes
+orange-questions,Orange
+orchiectomy-questions,Orchiectomy
+orchitis-questions,Orchitis
+oregon-questions,Oregon
+organ-questions,Organ
+orgasm-questions,Orgasm
+osteoarthritis-questions,Osteoarthritis
+osteonecrosis-questions,Osteonecrosis
+osteopenia-questions,Osteopenia
+osteoporosis-questions,Osteoporosis
+osteotomy-questions,Osteotomy
+ostomy-questions,Ostomy
+otitis-externa-questions,Otitis Externa
+otitis-media-with-effusion-questions,Otitis Media With Effusion
+ovarian-cancer-questions,Ovarian Cancer
+ovarian-cyst-questions,Ovarian Cyst
+ovary-questions,Ovary
+over-the-counter-questions,Over The Counter
+overactive-bladder-questions,Overactive Bladder
+ovulation-calculator-questions,Ovulation Calculator
+ovulation-chart-questions,Ovulation Chart
+ovulation-prediction-kit-questions,Ovulation Prediction Kit
+ovulation-questions,Ovulation
+oxycodone-questions,Oxycodone
+oxygen-questions,Oxygen
+oyster-questions,Oyster
+pacemaker-questions,Pacemaker
+pain-management-questions,Pain Management
+pain-questions,Pain
+pain-relief-questions,Pain Relief
+painful-ovulation-questions,Painful Ovulation
+painful-urination-questions,Painful Urination
+painkiller-questions,Painkiller
+palate-questions,Palate
+palpation-questions,Palpation
+palpitation-questions,Palpitation
+pancreas-questions,Pancreas
+pancreatic-cancer-questions,Pancreatic Cancer
+pancreatitis-questions,Pancreatitis
+panic-attack-questions,Panic Attack
+panic-disorder-questions,Panic Disorder
+pap-test-questions,Pap Test
+paralysis-questions,Paralysis
+paranoia-questions,Paranoia
+paranoid-behavior-questions,Paranoid Behavior
+paraphimosis-questions,Paraphimosis
+paraplegia-questions,Paraplegia
+parasite-questions,Parasite
+parenting-questions,Parenting
+paresthesia-questions,Paresthesia
+parkinsons-disease-questions,Parkinson's Disease
+paronychia-questions,Paronychia
+parsley-questions,Parsley
+pasta-questions,Pasta
+pastry-questions,Pastry
+pea-questions,Pea
+peach-questions,Peach
+peanut-butter-questions,Peanut Butter
+peanut-questions,Peanut
+pear-questions,Pear
+pecan-questions,Pecan
+pectoral-muscle-questions,Pectoral Muscle
+pedialyte-questions,Pedialyte
+pellagra-questions,Pellagra
+pelvic-area-questions,Pelvic Area
+pelvic-exam-questions,Pelvic Exam
+pelvic-inflammatory-disease-questions,Pelvic Inflammatory Disease
+pelvic-pain-questions,Pelvic Pain
+pelvis-questions,Pelvis
+penicillin-questions,Penicillin
+penile-cancer-questions,Penile Cancer
+penis-questions,Penis
+pepper-questions,Pepper
+peppermint-oil-questions,Peppermint Oil
+peppermint-questions,Peppermint
+pepperoni-questions,Pepperoni
+peptic-ulcer-questions,Peptic Ulcer
+perforated-eardrum-questions,Perforated Eardrum
+pericarditis-questions,Pericarditis
+perimenopause-questions,Perimenopause
+period-questions,Period
+periodontitis-questions,Periodontitis
+perioral-dermatitis-questions,Perioral Dermatitis
+peripheral-artery-disease-questions,Peripheral Artery Disease
+peripheral-neuropathy-questions,Peripheral Neuropathy
+peripheral-vascular-disease-questions,Peripheral Vascular Disease
+pernicious-anemia-questions,Pernicious Anemia
+personality-disorder-questions,Personality Disorder
+pervasive-development-disorders-questions,Pervasive Development Disorders
+pets-questions,Pets
+pharyngitis-questions,Pharyngitis
+phlebotomy-questions,Phlebotomy
+phobia-questions,Phobia
+photophobia-questions,Photophobia
+photosensitivity-questions,Photosensitivity
+physical-therapy-questions,Physical Therapy
+pickle-questions,Pickle
+pie-questions,Pie
+piercing-questions,Piercing
+pilates-questions,Pilates
+pilonidal-cyst-questions,Pilonidal Cyst
+pinched-nerve-questions,Pinched Nerve
+pineapple-questions,Pineapple
+pink-eye-questions,Pink Eye
+pinworm-questions,Pinworm
+pituitary-gland-questions,Pituitary Gland
+pituitary-tumor-questions,Pituitary Tumor
+pizza-questions,Pizza
+placenta-questions,Placenta
+plant-questions,Plant
+plantar-fasciitis-questions,Plantar Fasciitis
+plantar-wart-questions,Plantar Wart
+plaque-questions,Plaque
+plastic-surgery-questions,Plastic Surgery
+platelet-questions,Platelet
+pleurisy-questions,Pleurisy
+pneumonia-questions,Pneumonia
+poison-ivy-questions,Poison Ivy
+poison-oak-questions,Poison Oak
+poisoning-questions,Poisoning
+polio-questions,Polio
+polycystic-ovarian-syndrome-questions,Polycystic Ovarian Syndrome
+polymyositis-questions,Polymyositis
+polyp-questions,Polyp
+popcorn-questions,Popcorn
+poppy-questions,Poppy
+poppy-seed-questions,Poppy Seed
+pore-questions,Pore
+pork-questions,Pork
+porphyria-questions,Porphyria
+positron-emission-tomography-scan-questions,Positron Emission Tomography Scan
+post-concussion-syndrome-questions,Post-Concussion Syndrome
+post-menopause-questions,Post-Menopause
+post-nasal-drip-questions,Post Nasal Drip
+post-traumatic-stress-disorder-questions,Post-Traumatic Stress Disorder
+posterior-cruciate-ligament-injury-questions,Posterior Cruciate Ligament Injury
+postpartum-depression-questions,Postpartum Depression
+pot-roast-questions,Pot Roast
+potassium-chloride-questions,Potassium Chloride
+potassium-questions,Potassium
+potato-questions,Potato
+pre-existing-condition,pre-existing condition
+pre-school-questions,Pre-School
+precocious-puberty-questions,Precocious Puberty
+preeclampsia-questions,Preeclampsia
+pregnancy-questions,Pregnancy
+pregnancy-test-questions,Pregnancy Test
+premature-ejaculation-questions,Premature Ejaculation
+premature-menopause-questions,Premature Menopause
+premenstrual-syndrome-questions,Premenstrual Syndrome
+prenatal-vitamin-questions,Prenatal Vitamin
+preservative-questions,Preservative
+pressure-questions,Pressure
+pressure-ulcer-questions,Pressure Ulcer
+preterm-labor-questions,Preterm Labor
+priapism-questions,Priapism
+primary-biliary-cirrhosis-questions,Primary Biliary Cirrhosis
+prolapsed-bladder-questions,Prolapsed Bladder
+prolapsed-uterus-questions,Prolapsed Uterus
+prostate-cancer-questions,Prostate Cancer
+prostate-questions,Prostate
+prostate-specific-antigen-test-questions,Prostate-Specific Antigen Test
+prostatectomy-questions,Prostatectomy
+prostatitis-questions,Prostatitis
+protein-questions,Protein
+protein-s-deficiency-questions,Protein S Deficiency
+proton-pump-inhibitor-questions,Proton Pump Inhibitor
+psoriasis-questions,Psoriasis
+psoriatic-arthritis-questions,Psoriatic Arthritis
+psychosis-questions,Psychosis
+psychotherapy-questions,Psychotherapy
+puberty-questions,Puberty
+pubic-lice-questions,Pubic Lice
+pudding-questions,Pudding
+puffiness-questions,Puffiness
+pulmonary-embolism-questions,Pulmonary Embolism
+pulmonary-hypertension-questions,Pulmonary Hypertension
+pulse-questions,Pulse
+pumpkin-questions,Pumpkin
+puncture-questions,Puncture
+puncture-wound-questions,Puncture Wound
+pupil-questions,Pupil
+purpura-questions,Purpura
+pyelonephritis-questions,Pyelonephritis
+quit-smoking-questions,Quit Smoking
+rabies-questions,Rabies
+radial-keratotomy-questions,Radial Keratotomy
+radiation-sickness-questions,Radiation Sickness
+radical-prostatectomy-questions,Radical Prostatectomy
+radiculopathy-questions,Radiculopathy
+radish-questions,Radish
+range-of-motion-questions,Range Of Motion
+rapid-strep-test-questions,Rapid Strep Test
+rash-questions,Rash
+raspberry-questions,Raspberry
+raynauds-phenomenon-questions,Raynaud's Phenomenon
+razor-burn-questions,Razor Burn
+reaction-questions,Reaction
+reactive-attachment-disorder-questions,Reactive Attachment Disorder
+recipe-questions,Recipe
+reconstructive-surgery-questions,Reconstructive Surgery
+rectal-prolapse-questions,Rectal Prolapse
+rectum-questions,Rectum
+red-raspberry-questions,Red Raspberry
+red-wine-questions,Red Wine
+referred-pain-questions,Referred Pain
+reflex-questions,Reflux
+rehabilitation-questions,Rehabilitation
+renal-cell-carcinoma-questions,Renal Cell Carcinoma
+resection-questions,Resection
+restless-leg-syndrome-questions,Restless Leg Syndrome
+restless-legs-syndrome-questions,Restless Legs Syndrome
+restlessness-questions,Restlessness
+retina-questions,Retina
+retinitis-pigmentosa-questions,Retinitis Pigmentosa
+retrograde-ejaculation-questions,Retrograde Ejaculation
+rhabdomyosarcoma-questions,Rhabdomyosarcoma
+rheumatic-fever-questions,Rheumatic Fever
+rheumatoid-arthritis-questions,Rheumatoid Arthritis
+rhinitis-questions,Rhinitis
+rhinoplasty-questions,Rhinoplasty
+ribcage-questions,Ribcage
+riboflavin-questions,Riboflavin
+rice-milk-questions,Rice Milk
+rice-questions,Rice
+rickets-questions,Rickets
+ring-finger-questions,Ring Finger
+ringworm-questions,Ringworm
+roast-questions,Roast
+rocky-mountain-spotted-fever-questions,Rocky Mountain Spotted Fever
+rosacea-questions,Rosacea
+roseola-questions,Roseola
+rotator-cuff-injury-questions,Rotator Cuff Injury
+rotator-cuff-questions,Rotator Cuff
+running-questions,Running
+runny-nose-questions,Runny Nose
+ruptured-eardrum-questions,Ruptured Eardrum
+rye-questions,Rye
+sacroiliac-joint-questions,Sacroiliac Joint
+sadness-questions,Sadness
+salad-dressing-questions,Salad Dressing
+salad-questions,Salad
+salicylic-acid-questions,Salicylic Acid
+salivary-gland-questions,Salivary Gland
+salmon-questions,Salmon
+salpingectomy-questions,Salpingectomy
+salt-questions,Salt
+sarcoma-questions,Sarcoma
+sausage-questions,Sausage
+scabies-questions,Scabies
+scalp-questions,Scalp
+scapula-questions,Scapula
+scar-questions,Scar
+scarlet-fever-questions,Scarlet Fever
+schizophrenia-questions,Schizophrenia
+sciatica-questions,Sciatica
+scleroderma-questions,Scleroderma
+scoliosis-questions,Scoliosis
+scrape-questions,Scrape
+screening-questions,Screening
+scrotum-questions,Scrotum
+sea-sickness-questions,Sea Sickness
+seafood-questions,Seafood
+seasoning-questions,Seasoning
+seborrhea-questions,Seborrhea
+seborrheic-dermatitis-questions,Seborrheic Dermatitis
+second-degree-burn-questions,Second Degree Burn
+second-hand-smoke-questions,Second-Hand Smoke
+second-trimester-questions,Second Trimester
+secondary-amenorrhea-questions,Secondary Amenorrhea
+seeds-questions,Seeds
+seizure-disorder-questions,Seizure Disorder
+seizure-questions,Seizure
+self-exam-questions,Self-Exam
+senility-questions,Senility
+separation-anxiety-questions,Separation Anxiety
+sepsis-questions,Sepsis
+septic-shock-questions,Septic Shock
+serotonin-questions,Serotonin
+severe-allergic-reaction-questions,Severe Allergic Reaction
+severe-morning-sickness-questions,Severe Morning Sickness
+sexual-abuse-questions,Sexual Abuse
+sexual-assault-questions,Sexual Assault
+sexual-dysfunction-questions,Sexual Dysfunction
+sexual-intercourse-questions,Sexual Intercourse
+sexual-problem-questions,Sexual Problem
+sexually-transmitted-disease-questions,Sexually Transmitted Disease
+sgpt-questions,SGPT
+shallot-questions,Shallot
+shaving-questions,Shaving
+shellfish-questions,Shellfish
+shift-work-sleep-disorder-questions,Shift Work Sleep Disorder
+shin-questions,Shin
+shingles-questions,Shingles
+shock-questions,Shock
+short-attention-span-questions,Short Attention Span
+short-stature-questions,Short Stature
+short-term-memory-loss-questions,Short-Term Memory Loss
+shoulder-blade-questions,Shoulder Blade
+shoulder-bursitis-questions,Shoulder Bursitis
+shoulder-questions,Shoulder
+shrimp-questions,Shrimp
+sids-questions,SIDS
+sigmoidoscopy-questions,Sigmoidoscopy
+sinus-bradycardia-questions,Sinus Bradycardia
+sinus-infection-questions,Sinus Infection
+sinus-questions,Sinus
+skin-cancer-questions,Skin Cancer
+skin-questions,Skin
+skin-tag-questions,Skin Tag
+skull-fracture-questions,Skull Fracture
+skull-questions,Skull
+sleep-apnea-questions,Sleep Apnea
+sleep-disorder-questions,Sleep Disorder
+sleepiness-questions,Sleepiness
+sleepwalking-questions,Sleepwalking
+slipped-disc-questions,Slipped Disc
+small-cell-lung-cancer-questions,Small Cell Lung Cancer
+small-intestine-questions,Small Intestine
+smell-questions,Smell
+smoking-questions,Smoking
+snack-questions,Snack
+snorer-questions,Snorer
+social-phobia-questions,Social Phobia
+soda-questions,Soda
+sodium-chloride-questions,Sodium Chloride
+sodium-questions,Sodium
+soft-tissue-questions,Soft Tissue
+sore-questions,Sore
+sore-throat-questions,Sore Throat
+soup-questions,Soup
+sour-cream-questions,Sour Cream
+south-beach-diet-questions,South Beach Diet
+soy-milk-questions,Soy Milk
+soy-questions,Soy
+spaghetti-questions,Spaghetti
+spasm-questions,Spasm
+specific-phobias-questions,Specific Phobias
+sperm-questions,Sperm
+sphincter-questions,Sphincter
+spider-bite-questions,Spider Bite
+spider-vein-questions,Spider Vein
+spina-bifida-questions,Spina Bifida
+spinach-questions,Spinach
+spinal-cord-injury-questions,Spinal Cord Injury
+spinal-cord-questions,Spinal Cord
+spinal-fusion-questions,Spinal Fusion
+spinal-injury-questions,Spinal Injury
+spinal-meningitis-questions,Spinal Meningitis
+spinal-stenosis-questions,Spinal Stenosis
+spine-questions,Spine
+spit-questions,Spit
+spitting-up-questions,Spitting Up
+splint-questions,Splint
+splinter-questions,Splinter
+spondylitis-questions,Spondylitis
+spotting-questions,Spotting
+sprain-questions,Sprain
+squash-questions,Squash
+st-johns-wort-questions,St. John's Wort
+staph-infection-questions,Staph Infection
+staphylococcus-aureus-questions,Staphylococcus Aureus
+std-test-questions,STD Test
+stem-cell-questions,Stem Cell
+stem-cell-treatment-questions,Stem Cell Treatment
+stent-questions,Stent
+sternum-questions,Sternum
+steroid-questions,Steroid
+stiff-person-syndrome-questions,Stiff Person Syndrome
+stillbirth-questions,Stillbirth
+sting-questions,Sting
+stitches-questions,Stitches
+stomach-cancer-questions,Stomach Cancer
+stomach-questions,Stomach
+stomachache-questions,Stomachache
+stomatitis-questions,Stomatitis
+stool-culture-questions,Stool Culture
+strawberry-questions,Strawberry
+strep-throat-questions,Strep Throat
+stress-fracture-questions,Stress Fracture
+stress-incontinence-questions,Stress Incontinence
+stress-questions,Stress
+stretch-mark-questions,Stretch Mark
+stroke-questions,Stroke
+stuffy-nose-questions,Stuffy Nose
+sty-questions,Sty
+subconjunctival-hemorrhage-questions,Subconjunctival Hemorrhage
+subdural-hematoma-questions,Subdural Hematoma
+suicide-questions,Suicide
+sulfur-questions,Sulfur
+sunburn-questions,Sunburn
+sunflower-questions,Sunflower
+sunscreen-questions,Sunscreen
+supplement-questions,Supplement
+surgery-questions,Surgery
+sushi-questions,Sushi
+swallow-questions,Swallow
+swallowing-problem-questions,Swallowing Problem
+sweating-questions,Sweating
+sweet-potato-questions,Sweet Potato
+swelling-questions,Swelling
+swimmers-ear-questions,Swimmer's Ear
+swine-flu-questions,Swine Flu
+syphilis-questions,Syphilis
+syrup-questions,Syrup
+systematic-desensitization-questions,Systematic Desensitization
+systemic-questions,Systemic
+tachycardia-questions,Tachycardia
+tai-chi-questions,Tai Chi
+tailbone-questions,Tailbone
+talc-questions,Talc
+tampon-questions,Tampon
+tapeworm-infection-questions,Tapeworm Infection
+tar-syndrome-questions,Tar Syndrome
+tardive-dyskinesia-questions,Tardive Dyskinesia
+target-heart-rate-questions,Target Heart Rate
+taste-questions,Taste
+tattoo-questions,Tattoo
+tea-questions,Tea
+tea-tree-oil-questions,Tea Tree Oil
+tear-duct-questions,Tear Duct
+teething-questions,Teething
+temper-tantrums-questions,Temper Tantrums
+temperature-questions,Temperature
+temporomandibular-joint-disorder-questions,Temporomandibular Joint Disorder
+tenderness-questions,Tenderness
+tendinitis-questions,Tendinitis
+tendon-questions,Tendon
+tendonitis-questions,Tendonitis
+tennis-elbow-questions,Tennis Elbow
+tension-headache-questions,Tension Headache
+testicle-questions,Testicle
+testicular-cancer-questions,Testicular Cancer
+testicular-torsion-questions,Testicular Torsion
+testosterone-questions,Testosterone
+tetanus-questions,Tetanus
+texas-questions,Texas
+thallium-stress-test-questions,Thallium Stress Test
+therapeutic-questions,Therapeutic
+thermal-ablation-questions,Thermal Ablation
+thermometer-questions,Thermometer
+thigh-questions,Thigh
+third-trimester-questions,Third Trimester
+thirst-questions,Thirst
+thoracotomy-questions,Thoracotomy
+throat-questions,Throat
+thrombosis-questions,Thrombosis
+thrush-questions,Thrush
+thumb-questions,Thumb
+thymoma-questions,Thymoma
+thyroid-cancer-questions,Thyroid Cancer
+thyroid-disease-questions,Thyroid Disease
+thyroid-nodule-questions,Thyroid Nodule
+thyroid-questions,Thyroid
+thyroidectomy-questions,Thyroidectomy
+thyroiditis-questions,Thyroiditis
+tibia-questions,Tibia
+tic-questions,Tic
+tick-bite-questions,Tick Bite
+tick-questions,Tick
+tightness-questions,Tightness
+tinea-versicolor-questions,Tinea Versicolor
+tinnitus-questions,Tinnitus
+tobacco-questions,Tobacco
+toddler-questions,Toddler
+toe-questions,Toe
+toenail-fungus-questions,Toenail Fungus
+toenail-questions,Toenail
+tofu-questions,Tofu
+tomato-questions,Tomato
+tongue-questions,Tongue
+tonsil-questions,Tonsil
+tonsillectomy-questions,Tonsillectomy
+tonsillitis-questions,Tonsillitis
+tooth-abscess-questions,Tooth Abscess
+tooth-decay-questions,Tooth Decay
+tooth-questions,Tooth
+toothache-questions,Toothache
+torso-questions,Torso
+torticollis-questions,Torticollis
+toxic-epidermal-necrolysis-questions,Toxic Epidermal Necrolysis
+toxic-shock-syndrome-questions,Toxic Shock Syndrome
+trachea-questions,Trachea
+tracheotomy-questions,Tracheotomy
+transcutaneous-electric-nerve-stimulation-questions,Transcutaneous Electric Nerve Stimulation
+transfusion-questions,Transfusion
+transient-ischemia-attack-questions,Transient Ischemia Attack
+transplant-questions,Transplant
+transvaginal-ultrasound-questions,Transvaginal Ultrasound
+trauma-questions,Trauma
+travel-questions,Travel
+travelers-diarrhea-questions,Traveler's Diarrhea
+treadmill-questions,Treadmill
+tremor-questions,Tremor
+trench-foot-questions,Trench Foot
+trichinosis-questions,Trichinosis
+trichomoniasis-questions,Trichomoniasis
+trichotillomania-questions,Trichotillomania
+tricuspid-regurgitation-questions,Tricuspid Regurgitation
+trigeminal-neuralgia-questions,Trigeminal Neuralgia
+trigger-finger-questions,Trigger Finger
+triglyceride-questions,Triglyceride
+tryptophan-questions,Tryptophan
+tubal-ligation-questions,Tubal Ligation
+tubal-reversal-questions,Tubal Reversal
+tuberculosis-questions,Tuberculosis
+tumor-questions,Tumor
+tuna-questions,Tuna
+turkey-questions,Turkey
+type-1-diabetes-questions,Type 1 Diabetes
+type-2-diabetes-questions,Type 2 Diabetes
+typhoid-questions,Typhoid
+typhoid-vaccine-questions,Typhoid Vaccine
+typhus-questions,Typhus
+ulcer-questions,Ulcer
+ulcerative-colitis-questions,Ulcerative Colitis
+ultrasonography-questions,Ultrasonography
+ultrasound-questions,Ultrasound
+underactive-thyroid-questions,Underactive Thyroid
+undescended-testicle-questions,Undescended Testicle
+unstable-angina-questions,Unstable Angina
+urea-questions,Urea
+urethra-questions,Urethra
+urethral-stricture-questions,Urethral Stricture
+urethritis-questions,Urethritis
+uric-acid-questions,Uric Acid
+urinalysis-questions,Urinalysis
+urinary-incontinence-questions,Urinary Incontinence
+urinary-tract-infection-questions,Urinary Tract Infection
+urinary-tract-questions,Urinary Tract
+urination-questions,Urination
+urodynamic-test-questions,Urodynamic Test
+urostomy-questions,Urostomy
+utah-questions,Utah
+uterine-cancer-questions,Uterine Cancer
+uterine-fibroid-questions,Uterine Fibroid
+uterine-fibroids-questions,Uterine Fibroids
+uterine-prolapse-questions,Uterine Prolapse
+uterus-questions,Uterus
+vaccination-questions,Vaccination
+vaccines-questions,Vaccines
+vagina-questions,Vagina
+vaginal-discharge-questions,Vaginal Discharge
+vaginal-hysterectomy-questions,Vaginal Hysterectomy
+vaginal-yeast-infection-questions,Vaginal Yeast Infection
+vaginismus-questions,Vaginismus
+vaginitis-questions,Vaginitis
+valley-fever-questions,Valley Fever
+varicocele-questions,Varicocele
+varicose-vein-questions,Varicose Vein
+vascular-dementia-questions,Vascular Dementia
+vascular-ring-questions,Vascular Ring
+vasculitis-questions,Vasculitis
+vasectomy-questions,Vasectomy
+vasovagal-episode-questions,Vasovagal Episode
+vegetable-questions,Vegetable
+vein-questions,Vein
+venous-insufficiency-questions,Venous Insufficiency
+ventricle-questions,Ventricle
+ventricular-tachycardia-questions,Ventricular Tachycardia
+vertebra-questions,Vertebra
+vertigo-questions,Vertigo
+vinegar-questions,Vinegar
+viral-pneumonia-questions,Viral Pneumonia
+virginia-questions,Virginia
+virus-questions,Virus
+vision-problems-questions,Vision Problems
+vision-questions,Vision
+vitamin-a-questions,Vitamin A
+vitamin-c-questions,Vitamin C
+vitamin-d-deficiency-questions,Vitamin D Deficiency
+vitamin-d-questions,Vitamin D
+vitamin-e-questions,Vitamin E
+vitamin-k-questions,Vitamin K
+vitamin-questions,Vitamin
+vitiligo-questions,Vitiligo
+vocal-cord-questions,Vocal Cord
+vomit-questions,Vomit
+vomiting-blood-questions,Vomiting Blood
+vulvar-cancer-questions,Vulvar Cancer
+waist-questions,Waist
+walking-questions,Walking
+walnut-questions,Walnut
+wart-questions,Wart
+watermelon-questions,Watermelon
+watery-eyes-questions,Watery Eyes
+weakness-questions,Weakness
+weight-gain-questions,Weight Gain
+weight-loss-pill-questions,Weight Loss Pill
+weight-loss-questions,Weight Loss
+weight-questions,Weight
+welt-questions,Welt
+west-nile-virus-questions,West Nile Virus
+western-blot-test-questions,Western Blot Test
+wheat-bran-questions,Wheat Bran
+wheat-questions,Wheat
+whiplash-questions,Whiplash
+whitehead-questions,Whitehead
+whole-wheat-questions,Whole Wheat
+whooping-cough-questions,Whooping Cough
+wine-questions,Wine
+wisdom-tooth-questions,Wisdom Tooth
+wool-questions,Wool
+workout-questions,Workout
+worm-questions,Worm
+wound-care-questions,Wound Care
+wound-questions,Wound
+wrinkle-questions,Wrinkle
+wrist-pain-questions,Wrist Pain
+wrist-questions,Wrist
+wyoming-questions,Wyoming
+x-ray-questions,X-ray
+yam-questions,Yam
+yeast-infection-questions,Yeast Infection
+yeast-questions,Yeast
+yellow-fever-questions,Yellow Fever
+yoga-questions,Yoga
+yogurt-questions,Yogurt
+zinc-oxide-questions,Zinc Oxide
+zinc-questions,Zinc
+zucchini-questions,Zucchini
