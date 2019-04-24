@@ -84,7 +84,8 @@ var diameter = 800;
             
             //d3.select(".current").text(current_topic);
             //d3.selectAll("#questionwc").remove();
-            console.log("Loading data");
+            //Question WordCloud Code Start 
+            //console.log("Loading data");
             d3.json("Question-Corpus/"+current_topic+".json", function(error, data) {
                 if (error) throw error;
             
@@ -103,7 +104,32 @@ var diameter = 800;
                     .padding(2)
                     .rotate(function() { return ~~(Math.random() * 2) * 90; })
                     .fontSize(function(d) { return d.count * 8; })
-                    .on("end", drawCloud) // register a callback to insert the elements into the group once the layout has been finalized
+                    .on("end", drawCloudQ) // register a callback to insert the elements into the group once the layout has been finalized
+                    .start();
+            
+            }); 
+
+            //Answer WordCloud Code Start 
+            //console.log("Loading data");
+            d3.json("Answer-Corpus/"+current_topic+".json", function(error, data) {
+                if (error) throw error;
+            
+                var text = data.text;
+            
+                console.log("calculating stats");
+                word_counts = getWordCounts(text);
+            
+                // document.getElementById("corpus").innerHTML = word_counts.map(function(x) { return x.text });
+                console.log(word_counts.map(function(x) { return x.text }));
+            
+                var wordcloud = d3.layout.cloud()
+                    .size([500, 500])
+                    // .words(word_counts)
+                    .words(word_counts)
+                    .padding(2)
+                    .rotate(function() { return ~~(Math.random() * 2) * 90; })
+                    .fontSize(function(d) { return d.count * 8; })
+                    .on("end", drawCloudA) // register a callback to insert the elements into the group once the layout has been finalized
                     .start();
             
             }); 
@@ -168,13 +194,14 @@ var diameter = 800;
             
             // Make the word cloud
             
-            function drawCloud(words) {
+            function drawCloudQ(words) {
                 // console.log(words);
                 d3.selectAll("#questionwcsvg").remove();
+                
                 var fill = d3.scaleOrdinal(d3.schemeCategory10);
             var xScale = d3.scaleLinear()
                 .range([0, width]);
-            alert("tillsvg")
+            //alert("tillsvg")
             var svg = d3.select("#questionwcdiv")
                 .append("svg")
                 .attr("id","questionwcsvg")
@@ -193,5 +220,33 @@ var diameter = 800;
                     .attr("text-anchor", "middle")
                     .text(function(d) { return d.text });
             }
+
+            function drawCloudA(words) {
+                // console.log(words);
+                d3.selectAll("#answerwcsvg").remove();
+                
+                var fill = d3.scaleOrdinal(d3.schemeCategory10);
+            var xScale = d3.scaleLinear()
+                .range([0, width]);
+            //alert("tillsvg")
+            var svg = d3.select("#answerwcdiv")
+                .append("svg")
+                .attr("id","answerwcsvg")
+                .attr("width", "500")
+                .attr("height", "500");
+            
+            var chartGroup = svg.append("g").attr("transform", "translate(250,250)");
+                chartGroup.selectAll("text")
+                    .data(words)
+                    .enter().append("text")
+                    .style("fill", function(d, i) { return fill(i); })
+                    .style("font-size", function(d) { return d.size + "px"; })
+                    .attr("transform", function(d) {
+                        return "translate(" + [+d.x, +d.y] + ")rotate(" + d.rotate + ")";
+                    })
+                    .attr("text-anchor", "middle")
+                    .text(function(d) { return d.text });
+            }
+            
             
                       
