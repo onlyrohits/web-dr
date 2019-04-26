@@ -120,7 +120,7 @@ var diameter = 800;
                 word_counts = getWordCounts(text);
             
                 // document.getElementById("corpus").innerHTML = word_counts.map(function(x) { return x.text });
-                console.log(word_counts.map(function(x) { return x.text }));
+                //console.log(word_counts.map(function(x) { return x.text }));
             
                 var wordcloud = d3.layout.cloud()
                     .size([500, 500])
