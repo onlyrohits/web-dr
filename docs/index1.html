@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+		<title>D3: A simple packed Bubble Chart</title>
+		<meta charset="UTF-8">
+ 	 <link rel="stylesheet" href="liquidStyle.css">
+	  <script src="d3.v3.min.js" language="JavaScript"></script>
+	  <script src="d3.v2.js"></script>
+  	<script>
+    	d3version3 = d3
+    	window.d3 = null
+	  </script>
+	  <script src="liquidFillGauge.js" language="JavaScript"></script>
+	  
+	  <style>
+		  .liquidFillGaugeText { font-family: Helvetica; font-weight: bold; }
+	  </style>
+		<script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+		<script src="https://rawgit.com/jasondavies/d3-cloud/master/build/d3.layout.cloud.js"></script>
+		
+		
+		
+</head>
+<body>
+	
+    <script type="text/javascript" src="topic_count.js"></script>
+	<script type="text/javascript" src="bubble.js"></script>
+	<svg class="bubble_chart"></svg>
+	<div class="stream">
+	
+	</div>
+	<div class="StreamHandler">
+			<div class="chartStream">
+				</div>
+
+	</div>
+	
+	<div class="chart">
+		</div>
+		<div id="Wordclouds">
+		<div id="questionwcdiv">
+			</div>
+		<div id="answerwcdiv"></div>
+	</div>
+	<div class="Row">
+		<div class="Column"><svg id="fillgauge1" width="97%" height="250" onclick="gauge1.update(NewValue());"></svg></div>
+		<div class="Column"><svg id="fillgauge2" width="97%" height="250" onclick="gauge2.update(NewValue());"></svg></div>
+		<div class="Column"><svg id="fillgauge3" width="97%" height="250" onclick="gauge3.update(NewValue());"></svg></div>
+	</div>
+		
+	<script src="liquidScript.js" language="JavaScript"></script>		
+</body>
+
+</html>
