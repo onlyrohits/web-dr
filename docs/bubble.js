@@ -1,16 +1,25 @@
 
-var diameter = 800;
+var diameter = 700;
         var color = d3.scaleOrdinal(d3.schemeCategory20);
 
         var bubble = d3.pack(dataset)
             .size([diameter, diameter])
             .padding(1.5);
+        // d3.select("#bubbleHandler")
+        // .append("div")
+        // .attr("class","bubblewrapper")
+        // var svg = d3.select("body")
+        //     .append("svg")
+        //     .attr("width", diameter)
+        //     .attr("height", diameter)
+        //     .attr("class", "bubble");
+        
+        var svg = d3.select("svg")
+        .attr("width", diameter)
+        .attr("height", diameter+100);
 
-        var svg = d3.select("body")
-            .append("svg")
-            .attr("width", diameter)
-            .attr("height", diameter)
-            .attr("class", "bubble");
+       
+       
 
         var nodes = d3.hierarchy(dataset)
             .sum(function(d) { return d.Count; });
@@ -274,8 +283,8 @@ strokecolor = colorrange[0];
 
 var format = d3version2.time.format("%m");
 
-var margin = {top: 20, right: 40, bottom: 30, left: 30};
-var width = 800 - margin.left - margin.right;
+var margin = {top: 20, right: 40, bottom: 30, left: 50};
+var width = 1000 - margin.left - margin.right;
 var height = 400 - margin.top - margin.bottom;
 
 var tooltip = d3version2.select(".StreamHandler")
@@ -299,7 +308,9 @@ var z = d3version2.scale.ordinal()
 var xAxis = d3version2.svg.axis()
     .scale(x)
     .orient("bottom")
-    .ticks(d3version2.time.months);
+    //.ticks(d3version2.time.months);
+    .tickFormat(d3.timeFormat("%b"));
+    //.tickValues([1, 2, 3, 5, 8, 13, 21]);
 
 var yAxis = d3version2.svg.axis()
     .scale(y);
