@@ -15,13 +15,13 @@ else if (color == "orange") {
 }
 strokecolor = colorrange[0];
 
-var format = d3.time.format("%m");
+var format = d3version2.time.format("%m");
 
 var margin = {top: 20, right: 40, bottom: 30, left: 30};
 var width = 800 - margin.left - margin.right;
 var height = 400 - margin.top - margin.bottom;
 
-var tooltip = d3.select("body")
+var tooltip = d3version2.select("body")
     .append("div")
     .attr("class", "remove")
     .style("position", "absolute")
@@ -30,48 +30,48 @@ var tooltip = d3.select("body")
     .style("top", "30px")
     .style("left", "55px");
 
-var x = d3.time.scale()
+var x = d3version2.time.scale()
     .range([0, width]);
 
-var y = d3.scale.linear()
+var y = d3version2.scale.linear()
     .range([height-10, 0]);
 
-var z = d3.scale.ordinal()
+var z = d3version2.scale.ordinal()
     .range(colorrange);
 
-var xAxis = d3.svg.axis()
+var xAxis = d3version2.svg.axis()
     .scale(x)
     .orient("bottom")
-    .ticks(d3.time.months);
+    .ticks(d3version2.time.months);
 
-var yAxis = d3.svg.axis()
+var yAxis = d3version2.svg.axis()
     .scale(y);
 
-var yAxisr = d3.svg.axis()
+var yAxisr = d3version2.svg.axis()
     .scale(y);
 
-var stack = d3.layout.stack()
+var stack = d3version2.layout.stack()
     .offset("silhouette")
     .values(function(d) { return d.values; })
     .x(function(d) { return d.date; })
     .y(function(d) { return d.value; });
 
-var nest = d3.nest()
+var nest = d3version2.nest()
     .key(function(d) { return d.key; });
 
-var area = d3.svg.area()
+var area = d3version2.svg.area()
     .interpolate("cardinal")
     .x(function(d) { return x(d.date); })
     .y0(function(d) { return y(d.y0); })
     .y1(function(d) { return y(d.y0 + d.y); });
 
-var svg = d3.select(".chart").append("svg")
+var svg = d3version2.select(".chart").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-var graph = d3.csv(csvpath, function(data) {
+var graph = d3version2.csv(csvpath, function(data) {
   data.forEach(function(d) {
     d.date = format.parse(d.date);
     d.value = +d.value;
@@ -79,8 +79,8 @@ var graph = d3.csv(csvpath, function(data) {
 
   var layers = stack(nest.entries(data));
 
-  x.domain(d3.extent(data, function(d) { return d.date; }));
-  y.domain([0, d3.max(data, function(d) { return d.y0 + d.y; })]);
+  x.domain(d3version2.extent(data, function(d) { return d.date; }));
+  y.domain([0, d3version2.max(data, function(d) { return d.y0 + d.y; })]);
 
   svg.selectAll(".layer")
       .data(layers)
@@ -114,7 +114,7 @@ var graph = d3.csv(csvpath, function(data) {
     })})
 
     .on("mousemove", function(d, i) {
-      mousex = d3.mouse(this);
+      mousex = d3version2.mouse(this);
       mousex = mousex[0];
       var invertedx = x.invert(mousex);
       invertedx = invertedx.getMonth() + invertedx.getDate();
@@ -127,7 +127,7 @@ var graph = d3.csv(csvpath, function(data) {
       mousedate = datearray.indexOf(invertedx);
       pro = d.values[mousedate].value;
 
-      d3.select(this)
+      d3version2.select(this)
       .classed("hover", true)
       .attr("stroke", strokecolor)
       .attr("stroke-width", "0.5px"), 
@@ -139,12 +139,12 @@ var graph = d3.csv(csvpath, function(data) {
       .transition()
       .duration(250)
       .attr("opacity", "1");
-      d3.select(this)
+      d3version2.select(this)
       .classed("hover", false)
       .attr("stroke-width", "0px"), tooltip.html( "<p>" + d.key + "<br>" + pro + "</p>" ).style("visibility", "hidden");
   })
     
-  var vertical = d3.select(".chart")
+  var vertical = d3version2.select(".chart")
         .append("div")
         .attr("class", "remove")
         .style("position", "absolute")
@@ -156,13 +156,13 @@ var graph = d3.csv(csvpath, function(data) {
         .style("left", "0px")
         .style("background", "#fff");
 
-  d3.select(".chart")
+  d3version2.select(".chart")
       .on("mousemove", function(){  
-         mousex = d3.mouse(this);
+         mousex = d3version2.mouse(this);
          mousex = mousex[0] + 5;
          vertical.style("left", mousex + "px" )})
       .on("mouseover", function(){  
-         mousex = d3.mouse(this);
+         mousex = d3version2.mouse(this);
          mousex = mousex[0] + 5;
          vertical.style("left", mousex + "px")});
 });
