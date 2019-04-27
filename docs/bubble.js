@@ -1,4 +1,7 @@
 
+
+
+
 var diameter = 700;
         var color = d3.scaleOrdinal(d3.schemeCategory20);
 
@@ -144,7 +147,58 @@ var diameter = 700;
                     .on("end", drawCloudA) // register a callback to insert the elements into the group once the layout has been finalized
                     .start();
             
-            }); 
+            });
+            
+            //water gauge
+            
+            d3.csv("Topic_max_contributor/"+current_topic+"-questions.csv", function(data){
+                console.log(gaugeData)
+               var gaugeData = data[0];
+                
+               d3.selectAll("#fillgauge1").remove();
+               d3.selectAll("#fillgauge2").remove();
+               d3.selectAll("#fillgauge3").remove();
+
+               d3.selectAll(".fillgauge1Handler")
+               .append("svg")
+               .attr("id","fillgauge1")
+               .attr("width","97%")
+               .attr("height","250");
+               d3.selectAll(".fillgauge2Handler")
+               .append("svg")
+               .attr("id","fillgauge2")
+               .attr("width","97%")
+               .attr("height","250");
+               d3.selectAll(".fillgauge3Handler")
+               .append("svg")
+               .attr("id","fillgauge3")
+               .attr("width","97%")
+               .attr("height","250");
+
+            var gauge1 = loadLiquidFillGauge("fillgauge1", gaugeData['max_help']);
+            // gauge2 uses the custom gauge setting
+            var config1 = liquidFillGaugeDefaultSettings();
+            config1.circleColor = "#178BCA";
+            config1.textColor = "#222224";
+            config1.waveTextColor = "#222224";
+            config1.waveColor = "#d64d4d";
+            config1.circleThickness = 0.05;
+            config1.textVertPosition = 0.2;
+            config1.waveAnimateTime = 1000;
+            var gauge2 = loadLiquidFillGauge("fillgauge2", gaugeData['max_votes'], config1);
+
+            // gauge3 uses the custom gauge setting
+            var config2 = liquidFillGaugeDefaultSettings();
+            config2.maxValue = gaugeData['max_answered'];
+            config2.circleColor = "#178BCA";
+            config2.textColor = "#222224";
+            config2.waveTextColor = "#222224";
+            config2.waveColor = "#9ed670";
+            config1.circleThickness = 0.05;
+            config2.textVertPosition = 0.2;
+            config2.waveAnimateTime = 1000;
+            var gauge3 = loadLiquidFillGauge("fillgauge3", gaugeData['max_answered'], config2);
+             });
             
         })
         .on("mouseover",function(d,i){
