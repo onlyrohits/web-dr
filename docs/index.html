@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Freelancer - Start Bootstrap Theme</title>
+  <title>DocStat</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -44,6 +44,21 @@
         div.bubbleFormat {
           padding-top: 100px;
         }
+
+        .axis path, .axis line {
+         fill: none;
+                    stroke: #fff;
+                    stroke-width: 2px;
+                    shape-rendering: crispEdges;
+                  }
+
+                  button {
+                    position: absolute;
+                    right: 50px;
+                    top: 10px;
+                  }
+
+
         </style>
 
 </head>
@@ -54,7 +69,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">DocStat</a>
       <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menu
         <i class="fas fa-bars"></i>
@@ -65,7 +80,7 @@
             <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Home</a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">Visuals</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contact">Team</a>
           </li>
           
         </ul>
@@ -76,10 +91,10 @@
   <!-- Header -->
   <header class="masthead bg-primary text-white text-center">
     <div class="container">
-      <img class="img-fluid mb-5 d-block mx-auto" src="img/profile.png" alt="">
-      <h1 class="text-uppercase mb-0">Start Bootstrap</h1>
+      <img class="img-fluid mb-5 d-block mx-auto" src="img/doctor.png" alt="">
+      <h1 class="text-uppercase mb-0">Web MD</h1>
       <hr class="star-light">
-      <h2 class="font-weight-light mb-0">Web Developer - Graphic Artist - User Experience Designer</h2>
+      <h2 class="font-weight-light mb-0">Data Visualization</h2>
     </div>
   </header>
 
@@ -87,11 +102,12 @@
   <section class="portfolio" id="portfolio">
     <div class="container">
       <div class="bubbleHandler" id="bubbleHandler">
+        <center>
         
         <svg class="bubble">
 
         </svg>
-      
+      </center>
       </div>
     </div>
   </section>
@@ -99,6 +115,7 @@
   <!-- About Section -->
   <section class="bg-primary text-white mb-0" id="about">
     <div class="container-fluid">
+     
       <div class="row ">
         <div class="col">
           <center>
@@ -112,18 +129,57 @@
       </center>
       </div>
       </div>
+      <div class="row">
+          <div class="col-md-5"></div>
+          
+        <div class="col-md-3"><p class="StreamText" style="color:rgb(222, 121, 121)"></p></div>
+        <div class="col-md-4"></div>
+              
+           
+       
+         
+        
+      
+      </div>
       <div class="row mt-5">
-          <div class="col">
+          <div class="col-md-1"></div>
+          <div class="col-md-5">
               <div class="QuestionWordCloudHandler">
                   <div id="questionwcdiv">
                     </div>
                 </div>
             </div>
-            <div class="col">
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
                 <div class="AnswerWordCloudHandler">
                     <div id="answerwcdiv"></div>
                   </div>
               </div>
+          
+      </div>
+
+      <div class="row">
+          <div class="col-md-2"></div>
+          <div class="col-md-3">
+              <p class="QuestionText" style="color:rgb(52, 146, 81);"></p>
+                  
+                
+            </div>
+            <div class="col-md-3"></div>
+            <div class="col">
+                <p class="AnswerText" style="color:rgb(52, 146, 81);"></p>
+              </div>
+          
+      </div>
+      <div class="row">
+          <div class="col-md-5"></div>
+          <div class="col-md-2">
+             
+              <p class="GaugeText" style="color:#28aaff;text-align: center"></p>
+            
+            </div>
+            <div class="col"></div>
+           
           
       </div>
       <div class="row">
@@ -139,61 +195,78 @@
           
         
         </div>
+
+        <div class="row">
+          
+         
+              
+            <div class="col">
+                <p class="HelpfulnessText" style="color:#28aaff;text-align: center"></p>
+                </div>
+              <div class="col">
+                  <p  class="VotesText" style="color:#28aaff;text-align: center"></p>
+                  </div>
+              <div class="col">
+                  <p class="AnswersText" style="color:#28aaff;text-align: center"></p>
+                  </div>
+        
+      
+      </div>
+       
+
     </div>
   </section>
 
   
   <!-- Footer -->
-  <footer class="footer text-center">
+  <footer class="footer text-center" id="contact">
     <div class="container">
-      <div class="row">
-        <div class="col-md-4 mb-5 mb-lg-0">
-          <h4 class="text-uppercase mb-4">Location</h4>
-          <p class="lead mb-0">2215 John Daniel Drive
-            <br>Clark, MO 65243</p>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-2">
+              <p>Vinit Sheth</p>
+              <br/>
+              <p>vsheth2@asu.edu</p>
+            </div>
+           
+
+            <div class="col-md-2">
+                <p>Vinit Sheth</p>
+                <br/>
+                <p>vsheth2@asu.edu</p>
+              </div>
+              
+
+              <div class="col-md-2">
+                  <p>Vinit Sheth</p>
+                  <br/>
+                  <p>vsheth2@asu.edu</p>
+                </div>
+                
+
+                <div class="col-md-2">
+                    <p>Vinit Sheth</p>
+                    <br/>
+                    <p>vsheth2@asu.edu</p>
+                  </div>
+                  
+
+                  <div class="col-md-2">
+                      <p>Vinit Sheth</p>
+                      <br/>
+                      <p>vsheth2@asu.edu</p>
+                    </div>
+                    
+            
+             
+            
         </div>
-        <div class="col-md-4 mb-5 mb-lg-0">
-          <h4 class="text-uppercase mb-4">Around the Web</h4>
-          <ul class="list-inline mb-0">
-            <li class="list-inline-item">
-              <a class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
-                <i class="fab fa-fw fa-facebook-f"></i>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
-                <i class="fab fa-fw fa-google-plus-g"></i>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
-                <i class="fab fa-fw fa-twitter"></i>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
-                <i class="fab fa-fw fa-linkedin-in"></i>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
-                <i class="fab fa-fw fa-dribbble"></i>
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div class="col-md-4">
-          <h4 class="text-uppercase mb-4">About Freelancer</h4>
-          <p class="lead mb-0">Freelance is a free to use, open source Bootstrap theme created by
-            <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
-        </div>
-      </div>
     </div>
   </footer>
 
   <div class="copyright py-4 text-center text-white">
     <div class="container">
-      <small>Copyright &copy; Your Website 2019</small>
+     
     </div>
   </div>
 

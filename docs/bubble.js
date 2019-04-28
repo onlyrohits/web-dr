@@ -2,9 +2,9 @@
 
 
 
-var diameter = 700;
+var diameter = 800;
         var color = d3.scaleOrdinal(d3.schemeCategory20);
-
+        d3.selectAll(".spinner").attr("visibility", "hidden");
         var bubble = d3.pack(dataset)
             .size([diameter, diameter])
             .padding(1.5);
@@ -18,7 +18,7 @@ var diameter = 700;
         //     .attr("class", "bubble");
         
         var svg = d3.select("svg")
-        .attr("width", diameter)
+        .attr("width", diameter+100)
         .attr("height", diameter+100);
 
        
@@ -43,6 +43,10 @@ var diameter = 700;
             .text(function(d) {
                 return d.Name ;
             });
+        
+
+        
+        
         
         node.append("circle")
             .attr("r", function(d) {
@@ -91,6 +95,10 @@ var diameter = 700;
     };    
         d3.selectAll(".node")
         .on("click",function(d,i){
+
+            
+
+
             var current_topic = d.data.Name.substring(0, d.r / 3);
             //alert("changed")
             //Controller Reference
@@ -99,7 +107,12 @@ var diameter = 700;
             //Question WordCloud Code Start 
             //console.log("Loading data");
             chart("Stream/"+current_topic+".csv", "orange");
-            
+            d3.select(".StreamText").text("Monthly trends of "+current_topic)
+            d3.select(".QuestionText").text("Question Keywords of "+current_topic)
+            d3.select(".AnswerText").text("Answer Keywords of "+current_topic)
+            d3.select(".HelpfulnessText").text("Helpfulness")
+            d3.select(".AnswersText").text("Answers")
+            d3.select(".VotesText").text("Votes")
             
             d3.json("Question-Corpus/"+current_topic+".json", function(error, data) {
                 if (error) throw error;
@@ -174,7 +187,7 @@ var diameter = 700;
                .attr("id","fillgauge3")
                .attr("width","97%")
                .attr("height","250");
-
+               d3.select(".GaugeText").text("Top Contributor of "+current_topic+" : "+gaugeData['Name'])
             var gauge1 = loadLiquidFillGauge("fillgauge1", gaugeData['max_help']);
             // gauge2 uses the custom gauge setting
             var config1 = liquidFillGaugeDefaultSettings();
@@ -197,8 +210,11 @@ var diameter = 700;
             config1.circleThickness = 0.05;
             config2.textVertPosition = 0.2;
             config2.waveAnimateTime = 1000;
+            config2.displayPercent = false;
             var gauge3 = loadLiquidFillGauge("fillgauge3", gaugeData['max_answered'], config2);
              });
+
+            
             
         })
         .on("mouseover",function(d,i){
@@ -362,8 +378,11 @@ var z = d3version2.scale.ordinal()
 var xAxis = d3version2.svg.axis()
     .scale(x)
     .orient("bottom")
+    //.attr("color",white)
     //.ticks(d3version2.time.months);
     .tickFormat(d3.timeFormat("%b"));
+    //.style("color","white");
+    
     //.tickValues([1, 2, 3, 5, 8, 13, 21]);
 
 var yAxis = d3version2.svg.axis()
@@ -415,15 +434,18 @@ var graph = d3version2.csv(csvpath, function(data) {
   svg.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0," + height + ")")
+      .style("fill","white")
       .call(xAxis);
 
   svg.append("g")
       .attr("class", "y axis")
       .attr("transform", "translate(" + width + ", 0)")
+      .style("fill","white")
       .call(yAxis.orient("right"));
 
   svg.append("g")
       .attr("class", "y axis")
+      .style("fill","white")
       .call(yAxis.orient("left"));
 
   svg.selectAll(".layer")
