@@ -4,7 +4,7 @@
 
 var diameter = 800;
         var color = d3.scaleOrdinal(d3.schemeCategory20);
-        alert("Open this visualization in Firefox only.")
+        //alert("Open this visualization in Firefox only.")
         d3.selectAll(".spinner").attr("visibility", "hidden");
         var bubble = d3.pack(dataset)
             .size([diameter, diameter])
